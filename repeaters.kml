@@ -1,0 +1,2289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+
+    <Placemark>
+      <name>N4RSW 70cm</name>
+      <description>rx: 446.175, tx: 446.175, ^Hz, Analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-84.75550079, 34.1269989, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4FLE 70cm</name>
+      <description>rx: 445.74, tx: 445.74, ^74.4Hz, Analog, 4/7/2022</description>
+      <Point>
+        <coordinates>-81.4721131, 31.2317093, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KG4BKO 70cm</name>
+      <description>rx: 444.9875, tx: 449.9875, ^Hz, DMR, 4/11/2022</description>
+      <Point>
+        <coordinates>-82.409216, 32.2175093, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4RTH 70cm</name>
+      <description>rx: 444.975, tx: 449.975, ^100.0Hz, Analog/analog, 6/12/2022</description>
+      <Point>
+        <coordinates>-84.37940216, 33.83940125, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WR4MG 70cm</name>
+      <description>rx: 444.95, tx: 449.95, ^107.2Hz, Analog/analog, 6/11/2022</description>
+      <Point>
+        <coordinates>-84.240239, 32.524736, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KA3JIJ 70cm</name>
+      <description>rx: 444.95, tx: 449.95, ^Hz, DMR, 4/3/2022</description>
+      <Point>
+        <coordinates>-83.82409668, 34.29790115, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KF4BI 70cm</name>
+      <description>rx: 444.925, tx: 449.925, ^141.3Hz, Analog/analog, 7/21/2022</description>
+      <Point>
+        <coordinates>-83.63739777, 31.67429924, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4MPC 70cm</name>
+      <description>rx: 444.9, tx: 449.9, ^100.0Hz, DMR/analog, 6/21/2022</description>
+      <Point>
+        <coordinates>-84.2706, 33.8008, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4KNS 70cm</name>
+      <description>rx: 444.9, tx: 449.9, ^71.9Hz, Analog/analog, 6/7/2022</description>
+      <Point>
+        <coordinates>-82.12409973, 33.5082016, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4RFC 70cm</name>
+      <description>rx: 444.8875, tx: 449.8875, ^Hz, DMR/analog, 6/21/2022</description>
+      <Point>
+        <coordinates>-84.51855, 34.10334, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KE4RJI 70cm</name>
+      <description>rx: 444.875, tx: 449.875, ^141.3Hz, Analog/analog, 4/5/2022</description>
+      <Point>
+        <coordinates>-83.50180054, 31.45120049, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KE4UAS 70cm</name>
+      <description>rx: 444.875, tx: 449.875, ^100.0Hz, DMR/analog, 4/1/2022</description>
+      <Point>
+        <coordinates>-84.17179871, 33.4239006, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4DMX 70cm</name>
+      <description>rx: 444.85, tx: 449.85, ^141.3Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-84.76989746, 34.76589966, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KB4MQ 70cm</name>
+      <description>rx: 444.85, tx: 449.85, ^103.5Hz, Analog/analog, 4/2/2022</description>
+      <Point>
+        <coordinates>-83.17769623, 32.1977005, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4DOC 70cm</name>
+      <description>rx: 444.825, tx: 449.825, ^Hz, DMR, 6/12/2022</description>
+      <Point>
+        <coordinates>-84.38619995, 33.77090073, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4DBN 70cm</name>
+      <description>rx: 444.825, tx: 449.825, ^123.0Hz, Analog, 4/10/2022</description>
+      <Point>
+        <coordinates>-82.903754, 32.5404447, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4ASI 70cm</name>
+      <description>rx: 444.8, tx: 449.8, ^88.5Hz, YSF/analog, 9/16/2022</description>
+      <Point>
+        <coordinates>-83.8513031, 33.58840179, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4PVW 70cm</name>
+      <description>rx: 444.8, tx: 449.8, ^141.3Hz, Analog/analog, 6/30/2022</description>
+      <Point>
+        <coordinates>-83.7527861, 31.43085, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KD4IEZ 70cm</name>
+      <description>rx: 444.7875, tx: 449.7875, ^Hz, DMR, 6/12/2022</description>
+      <Point>
+        <coordinates>-82.7647, 32.3664, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KD4IEZ 70cm</name>
+      <description>rx: 444.775, tx: 449.775, ^77.0Hz, YSF/analog, 6/12/2022</description>
+      <Point>
+        <coordinates>-82.90380096, 32.54040146, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4KIP 70cm</name>
+      <description>rx: 444.775, tx: 449.775, ^Hz, DMR, 4/6/2022</description>
+      <Point>
+        <coordinates>-84.4730374, 34.0670772, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KK4JPG 70cm</name>
+      <description>rx: 444.75, tx: 449.75, ^100.0Hz, DMR/analog, 4/10/2022</description>
+      <Point>
+        <coordinates>-83.9382019, 33.03430176, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KD4AOZ 70cm</name>
+      <description>rx: 444.725, tx: 449.725, ^123.0Hz, Analog/analog, 4/2/2022</description>
+      <Point>
+        <coordinates>-83.40879822, 33.86289978, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4LMC 70cm</name>
+      <description>rx: 444.7125, tx: 449.7125, ^Hz, DMR, 9/9/2022</description>
+      <Point>
+        <coordinates>-85.361176, 34.98195, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4DDI 70cm</name>
+      <description>rx: 444.7, tx: 449.7, ^103.5Hz, Analog/analog, 6/20/2022</description>
+      <Point>
+        <coordinates>-83.63240051, 32.84069824, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4VLD 70cm</name>
+      <description>rx: 444.7, tx: 449.7, ^141.3Hz, Analog/analog, 4/8/2022</description>
+      <Point>
+        <coordinates>-83.32189941, 30.8491993, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KI4CCZ 70cm</name>
+      <description>rx: 444.7, tx: 449.7, ^118.8Hz, Analog/analog, 11/2/2021</description>
+      <Point>
+        <coordinates>-82.883856, 34.191686, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WD4LUQ 70cm</name>
+      <description>rx: 444.7, tx: 449.7, ^77.0Hz, Analog/analog, 11/2/2021</description>
+      <Point>
+        <coordinates>-84.9088974, 33.92200089, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4KNS 70cm</name>
+      <description>rx: 444.675, tx: 449.675, ^71.9Hz, Analog/analog, 6/7/2022</description>
+      <Point>
+        <coordinates>-82.01049805, 33.4734993, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KN4YZ 70cm</name>
+      <description>rx: 444.675, tx: 449.675, ^77.0Hz, Analog/analog, 3/31/2022</description>
+      <Point>
+        <coordinates>-84.59719849, 33.47119904, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W1KFR 70cm</name>
+      <description>rx: 444.625, tx: 449.625, ^Hz, DMR, 6/20/2022</description>
+      <Point>
+        <coordinates>-81.73480225, 30.82320023, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4ULK 70cm</name>
+      <description>rx: 444.6125, tx: 449.6125, ^Hz, YSF/analog, 7/19/2022</description>
+      <Point>
+        <coordinates>-84.82589722, 32.63959885, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4PSZ 70cm</name>
+      <description>rx: 444.6, tx: 449.6, ^77.0Hz, Analog/analog, 6/12/2022</description>
+      <Point>
+        <coordinates>-84.45490265, 33.44869995, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4NKL 70cm</name>
+      <description>rx: 444.6, tx: 449.6, ^141.3Hz, Analog/analog, 4/1/2022</description>
+      <Point>
+        <coordinates>-83.55989838, 30.78490067, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KE4PMP 70cm</name>
+      <description>rx: 444.575, tx: 449.575, ^88.5Hz, YSF/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-82.3891983, 32.21139908, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4GR 70cm</name>
+      <description>rx: 444.525, tx: 449.525, ^82.5Hz, YSF/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.01989746, 33.8572998, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KK4BSA 70cm</name>
+      <description>rx: 444.5, tx: 449.5, ^Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-83.40100098, 34.87810135, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4MM 70cm</name>
+      <description>rx: 444.5, tx: 449.5, ^Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-84.15570068, 31.57850075, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KE4PMP 70cm</name>
+      <description>rx: 444.4875, tx: 449.4875, ^Hz, DMR, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.553556, 31.936778, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NF4GA 70cm</name>
+      <description>rx: 444.475, tx: 449.475, ^100.0Hz, Analog/analog, 3/29/2022</description>
+      <Point>
+        <coordinates>-84.3686, 33.9649, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4OHH 70cm</name>
+      <description>rx: 444.45, tx: 449.45, ^131.8Hz, YSF/analog, 6/12/2022</description>
+      <Point>
+        <coordinates>-84.33280182, 32.8871994, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4EGA 70cm</name>
+      <description>rx: 444.425, tx: 449.425, ^186.2Hz, DMR/analog, 6/11/2022</description>
+      <Point>
+        <coordinates>-83.39309692, 33.31389999, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4JSF 70cm</name>
+      <description>rx: 444.4, tx: 449.4, ^141.3Hz, Analog/analog, 6/7/2022</description>
+      <Point>
+        <coordinates>-83.2620809, 31.7061162, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WR4SG 70cm</name>
+      <description>rx: 444.35, tx: 449.35, ^141.3Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-83.31860352, 30.65999985, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WX4RCA 70cm</name>
+      <description>rx: 444.3, tx: 449.3, ^131.8Hz, Analog/analog, 4/7/2022</description>
+      <Point>
+        <coordinates>-84.05750275, 33.67470169, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4SFU 70cm</name>
+      <description>rx: 444.25, tx: 449.25, ^94.8Hz, Analog/analog, 8/27/2022</description>
+      <Point>
+        <coordinates>-82.15509796, 32.582901, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4BOC 70cm</name>
+      <description>rx: 444.25, tx: 449.25, ^131.8Hz, YSF/analog, 11/10/2021</description>
+      <Point>
+        <coordinates>-84.2963028, 33.77479935, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WR4VR 70cm</name>
+      <description>rx: 444.225, tx: 449.225, ^127.3Hz, YSF/analog, 3/31/2022</description>
+      <Point>
+        <coordinates>-84.88079834, 33.72539902, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4HQV 70cm</name>
+      <description>rx: 444.2, tx: 449.2, ^100.0Hz, YSF/analog, 7/22/2022</description>
+      <Point>
+        <coordinates>-83.95860291, 33.93489838, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KD4IEZ 70cm</name>
+      <description>rx: 444.175, tx: 449.175, ^Hz, DMR, 7/22/2022</description>
+      <Point>
+        <coordinates>-82.285389, 33.259167, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NX4DN 70cm</name>
+      <description>rx: 444.1375, tx: 449.1375, ^Hz, DMR, 4/11/2022</description>
+      <Point>
+        <coordinates>-83.94029, 30.67025, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KC6OVD 70cm</name>
+      <description>rx: 444.125, tx: 449.125, ^Hz, DMR, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.6768796, 34.0659329, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4PFT 70cm</name>
+      <description>rx: 444.1125, tx: 449.1125, ^Hz, DMR, 3/28/2022</description>
+      <Point>
+        <coordinates>-83.22763413, 34.37924107, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4BAB 70cm</name>
+      <description>rx: 443.925, tx: 448.925, ^Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-85.10910034, 34.91590118, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4PLM 70cm</name>
+      <description>rx: 443.85, tx: 448.85, ^192.8Hz, Analog/analog, 11/2/2021</description>
+      <Point>
+        <coordinates>-84.55220032, 34.31650162, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4GWA 70cm</name>
+      <description>rx: 443.8, tx: 448.8, ^110.9Hz, Analog/analog, 4/10/2022</description>
+      <Point>
+        <coordinates>-84.58200073, 32.98300171, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NG4RF 70cm</name>
+      <description>rx: 443.75, tx: 448.75, ^100.0Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.338, 34.522, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WR4MC 70cm</name>
+      <description>rx: 443.75, tx: 448.75, ^118.8Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-83.46790314, 33.59569931, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4TAW 70cm</name>
+      <description>rx: 443.7375, tx: 448.7375, ^Hz, DMR, 4/9/2022</description>
+      <Point>
+        <coordinates>-83.80740356, 33.81760025, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4AEG 70cm</name>
+      <description>rx: 443.725, tx: 448.725, ^167.9Hz, Analog/analog, 6/12/2022</description>
+      <Point>
+        <coordinates>-84.93409729, 34.36869812, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4TIY 70cm</name>
+      <description>rx: 443.7, tx: 448.7, ^77.0Hz, Analog/analog, 6/12/2022</description>
+      <Point>
+        <coordinates>-85.014449, 33.938577, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N5BI 70cm</name>
+      <description>rx: 443.7, tx: 448.7, ^100.0Hz, Analog/analog, 6/7/2022</description>
+      <Point>
+        <coordinates>-83.53890228, 33.02109909, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4WOC 70cm</name>
+      <description>rx: 443.675, tx: 448.675, ^100.0Hz, Analog/analog, 6/11/2022</description>
+      <Point>
+        <coordinates>-84.95110321, 34.50260162, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4SCP 70cm</name>
+      <description>rx: 443.6, tx: 448.6, ^110.9Hz, Analog/analog, 4/5/2022</description>
+      <Point>
+        <coordinates>-84.2440553, 33.3210048, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KC4AQS 70cm</name>
+      <description>rx: 443.5625, tx: 448.5625, ^100.0Hz, Analog/analog, 9/18/2022</description>
+      <Point>
+        <coordinates>-84.33139801, 34.48619843, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4SFU 70cm</name>
+      <description>rx: 443.5625, tx: 448.5625, ^Hz, DMR, 8/28/2022</description>
+      <Point>
+        <coordinates>-82.1564, 32.5825, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4SFU 70cm</name>
+      <description>rx: 443.5625, tx: 448.5625, ^Hz, DMR, 8/27/2022</description>
+      <Point>
+        <coordinates>-82.1564, 32.5825, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NQ4AE 70cm</name>
+      <description>rx: 443.55, tx: 448.55, ^Hz, Analog/analog, 7/22/2022</description>
+      <Point>
+        <coordinates>-84.2640904, 33.2467807, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4GAR 70cm</name>
+      <description>rx: 443.55, tx: 448.55, ^123.0Hz, Analog/analog, 6/6/2022</description>
+      <Point>
+        <coordinates>-83.78479767, 34.57550049, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4LMC 70cm</name>
+      <description>rx: 443.525, tx: 448.525, ^Hz, Analog/analog, 9/9/2022</description>
+      <Point>
+        <coordinates>-85.11470032, 34.67369843, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4WYI 70cm</name>
+      <description>rx: 443.525, tx: 448.525, ^100.0Hz, Analog/analog, 4/10/2022</description>
+      <Point>
+        <coordinates>-83.72019958, 33.99259949, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AF1G 70cm</name>
+      <description>rx: 443.5125, tx: 448.5125, ^85.4Hz, DMR/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-83.711603, 32.542672, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KC4JNN 70cm</name>
+      <description>rx: 443.5, tx: 448.5, ^100.0Hz, Analog/analog, 4/2/2022</description>
+      <Point>
+        <coordinates>-84.33959961, 34.52980042, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WX4PCA 70cm</name>
+      <description>rx: 443.475, tx: 448.475, ^77.0Hz, Analog/analog, 9/18/2022</description>
+      <Point>
+        <coordinates>-84.84079742, 33.92369843, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4EEE 70cm</name>
+      <description>rx: 443.475, tx: 448.475, ^85.4Hz, NXDN/analog, 6/15/2022</description>
+      <Point>
+        <coordinates>-83.5345993, 33.94929886, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WC4RAV 70cm</name>
+      <description>rx: 443.45, tx: 448.45, ^103.5Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-84.56410217, 33.89989853, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4GWA 70cm</name>
+      <description>rx: 443.4, tx: 448.4, ^110.9Hz, Analog/analog, 4/10/2022</description>
+      <Point>
+        <coordinates>-84.43740082, 33.09120178, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KC4AQS 70cm</name>
+      <description>rx: 443.375, tx: 448.375, ^100.0Hz, Analog/analog, 9/18/2022</description>
+      <Point>
+        <coordinates>-84.33139801, 34.48619843, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4ASI 70cm</name>
+      <description>rx: 443.35, tx: 448.35, ^88.5Hz, Analog/analog, 4/15/2022</description>
+      <Point>
+        <coordinates>-83.850606, 33.611534, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4MPZ 70cm</name>
+      <description>rx: 443.325, tx: 448.325, ^100.0Hz, Analog/analog, 7/22/2022</description>
+      <Point>
+        <coordinates>-83.7632366, 34.5970402, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WX4BCA 70cm</name>
+      <description>rx: 443.325, tx: 448.325, ^131.8Hz, Analog/analog, 4/1/2022</description>
+      <Point>
+        <coordinates>-83.98010254, 33.30469894, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WR4SG 70cm</name>
+      <description>rx: 443.3, tx: 448.3, ^141.3Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-83.39499664, 30.74309921, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4RSW 70cm</name>
+      <description>rx: 443.3, tx: 448.3, ^Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-84.75550079, 34.1269989, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KA4CID 70cm</name>
+      <description>rx: 443.3, tx: 448.3, ^97.4Hz, Analog/analog, 4/2/2022</description>
+      <Point>
+        <coordinates>-81.44069672, 31.78280067, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4NFG 70cm</name>
+      <description>rx: 443.275, tx: 448.275, ^77.0Hz, Analog/analog, 6/6/2022</description>
+      <Point>
+        <coordinates>-83.17669678, 32.81190109, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4KST 70cm</name>
+      <description>rx: 443.275, tx: 448.275, ^100.0Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-84.52130127, 33.93840027, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KJ4KPY 70cm</name>
+      <description>rx: 443.225, tx: 448.225, ^146.2Hz, Analog/analog, 4/6/2022</description>
+      <Point>
+        <coordinates>-84.2271275, 33.5111408, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4HBS 70cm</name>
+      <description>rx: 443.225, tx: 448.225, ^100.0Hz, Analog/analog, 4/5/2022</description>
+      <Point>
+        <coordinates>-84.21360016, 34.80220032, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4OKJ 70cm</name>
+      <description>rx: 443.2, tx: 448.2, ^100.0Hz, Analog/analog, 4/5/2022</description>
+      <Point>
+        <coordinates>-85.23560333, 34.23300171, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4CMB 70cm</name>
+      <description>rx: 443.2, tx: 448.2, ^151.4Hz, YSF/analog, 3/28/2022</description>
+      <Point>
+        <coordinates>-83.11060333, 34.45249939, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4PAR 70cm</name>
+      <description>rx: 443.175, tx: 448.175, ^186.2Hz, Analog/analog, 6/11/2022</description>
+      <Point>
+        <coordinates>-83.32929993, 33.35419846, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4CLM 70cm</name>
+      <description>rx: 443.175, tx: 448.175, ^100.0Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-84.79989624, 34.1651001, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4WCR 70cm</name>
+      <description>rx: 443.15, tx: 448.15, ^127.3Hz, P25/analog, 8/6/2022</description>
+      <Point>
+        <coordinates>-83.41207, 34.904664, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WM4B 70cm</name>
+      <description>rx: 443.15, tx: 448.15, ^82.5Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-83.63150024, 32.6169014, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NF4GA 70cm</name>
+      <description>rx: 443.15, tx: 448.15, ^100.0Hz, Analog/analog, 3/29/2022</description>
+      <Point>
+        <coordinates>-84.32019806, 34.06669998, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KM4EYX 70cm</name>
+      <description>rx: 443.1375, tx: 448.1375, ^Hz, DMR, 4/4/2022</description>
+      <Point>
+        <coordinates>-82.872, 31.5233, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4IO 70cm</name>
+      <description>rx: 443.125, tx: 448.125, ^186.2Hz, Analog/analog, 4/10/2022</description>
+      <Point>
+        <coordinates>-83.73429871, 33.51789856, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4KHQ 70cm</name>
+      <description>rx: 443.1, tx: 448.1, ^100.0Hz, Analog/analog, 4/10/2022</description>
+      <Point>
+        <coordinates>-84.005717, 34.674833, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WX4EMA 70cm</name>
+      <description>rx: 443.075, tx: 448.075, ^88.5Hz, DMR, 6/1/2022</description>
+      <Point>
+        <coordinates>-83.691027, 32.86597, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4EOC 70cm</name>
+      <description>rx: 443.075, tx: 448.075, ^107.2Hz, P25/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.637126, 34.321075, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4RVB 70cm</name>
+      <description>rx: 443.025, tx: 448.025, ^156.7Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-82.71990204, 32.72930145, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KE4ZRT 70cm</name>
+      <description>rx: 443, tx: 448, ^141.3Hz, YSF/analog, 6/7/2022</description>
+      <Point>
+        <coordinates>-82.8726, 31.5235, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4DRC 70cm</name>
+      <description>rx: 443, tx: 448, ^141.3Hz, YSF/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-84.76989746, 34.76589966, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KD4Z 70cm</name>
+      <description>rx: 442.975, tx: 447.975, ^Hz, DMR, 4/8/2022</description>
+      <Point>
+        <coordinates>-84.45549774, 34.06700134, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KJ4KKB 70cm</name>
+      <description>rx: 442.95, tx: 447.95, ^Hz, DMR, 4/8/2022</description>
+      <Point>
+        <coordinates>-84.84130096, 33.92449951, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4ZRA 70cm</name>
+      <description>rx: 442.95, tx: 447.95, ^179.9Hz, Analog/analog, 4/1/2022</description>
+      <Point>
+        <coordinates>-83.38240051, 33.9557991, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N5JMD 70cm</name>
+      <description>rx: 442.9, tx: 447.9, ^123.0Hz, DMR/analog, 6/23/2022</description>
+      <Point>
+        <coordinates>-83.95860291, 33.93489838, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4KNS 70cm</name>
+      <description>rx: 442.9, tx: 447.9, ^71.9Hz, Analog/analog, 6/7/2022</description>
+      <Point>
+        <coordinates>-82.31629944, 33.54610062, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WR4MG 70cm</name>
+      <description>rx: 442.9, tx: 447.9, ^107.2Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-83.613526, 32.604596, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4RFL 70cm</name>
+      <description>rx: 442.875, tx: 447.875, ^100.0Hz, Analog/analog, 6/20/2022</description>
+      <Point>
+        <coordinates>-84.5499327, 33.952602, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4HJG 70cm</name>
+      <description>rx: 442.85, tx: 447.85, ^82.5Hz, Analog/analog, 4/5/2022</description>
+      <Point>
+        <coordinates>-83.98799896, 33.95619965, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WR4VR 70cm</name>
+      <description>rx: 442.775, tx: 447.775, ^127.3Hz, YSF/analog, 3/31/2022</description>
+      <Point>
+        <coordinates>-84.9191081, 33.732052, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WR4SG 70cm</name>
+      <description>rx: 442.7125, tx: 447.7125, ^141.3Hz, DMR/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-83.31860352, 30.67000008, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4LHS 70cm</name>
+      <description>rx: 442.7, tx: 447.7, ^Hz, Analog/analog, 4/20/2022</description>
+      <Point>
+        <coordinates>-81.09980011, 32.08349991, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KC4ZGN 70cm</name>
+      <description>rx: 442.7, tx: 447.7, ^77.0Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.4937973, 34.71409988, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4CGA 70cm</name>
+      <description>rx: 442.675, tx: 447.675, ^77.0Hz, YSF/analog, 6/7/2022</description>
+      <Point>
+        <coordinates>-84.84130096, 33.92449951, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W8RED 70cm</name>
+      <description>rx: 442.6, tx: 447.6, ^Hz, DMR, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.02686, 33.85705, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4DBN 70cm</name>
+      <description>rx: 442.6, tx: 447.6, ^123.0Hz, Analog, 4/10/2022</description>
+      <Point>
+        <coordinates>-82.903754, 32.5404447, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4UCJ 70cm</name>
+      <description>rx: 442.6, tx: 447.6, ^141.3Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-83.98249817, 30.83320045, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AI1U 70cm</name>
+      <description>rx: 442.5375, tx: 447.5375, ^Hz, DMR, 6/20/2022</description>
+      <Point>
+        <coordinates>-83.988, 33.9562, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4PSZ 70cm</name>
+      <description>rx: 442.5, tx: 447.5, ^77.0Hz, Analog/analog, 6/12/2022</description>
+      <Point>
+        <coordinates>-84.59580231, 33.39680099, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KE4UHF 70cm</name>
+      <description>rx: 442.5, tx: 447.5, ^88.5Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-82.4808, 32.2328, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KD4APP 70cm</name>
+      <description>rx: 442.4875, tx: 447.4875, ^Hz, DMR, 6/20/2022</description>
+      <Point>
+        <coordinates>-84.375298, 34.337639, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4CMB 70cm</name>
+      <description>rx: 442.475, tx: 447.475, ^203.5Hz, YSF/analog, 3/28/2022</description>
+      <Point>
+        <coordinates>-83.10679626, 34.43590164, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KK4OIO 70cm</name>
+      <description>rx: 442.425, tx: 447.425, ^107.2Hz, Analog/analog, 4/8/2022</description>
+      <Point>
+        <coordinates>-84.54989624, 33.95259857, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4ZXV 70cm</name>
+      <description>rx: 442.4, tx: 447.4, ^100.0Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-83.98799896, 33.95619965, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KN4FE 70cm</name>
+      <description>rx: 442.4, tx: 447.4, ^110.9Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-84.68099976, 32.89039993, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KG4ERR 70cm</name>
+      <description>rx: 442.4, tx: 447.4, ^123.0Hz, YSF/analog, 11/2/2021</description>
+      <Point>
+        <coordinates>-81.636776, 32.7504441, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KZ4FOX 70cm</name>
+      <description>rx: 442.375, tx: 447.375, ^D115Hz, Analog/analog, 8/23/2022</description>
+      <Point>
+        <coordinates>-83.355, 34.0105, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WD4NHW 70cm</name>
+      <description>rx: 442.35, tx: 447.35, ^Hz, Analog/analog, 9/7/2022</description>
+      <Point>
+        <coordinates>-83.55069733, 34.48590088, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4GR 70cm</name>
+      <description>rx: 442.325, tx: 447.325, ^100.0Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.00605, 34.11928, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4GWA 70cm</name>
+      <description>rx: 442.3125, tx: 447.3125, ^Hz, DMR, 4/10/2022</description>
+      <Point>
+        <coordinates>-84.451889, 33.089474, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WW4T 70cm</name>
+      <description>rx: 442.3, tx: 447.3, ^Hz, Analog/analog, 4/15/2022</description>
+      <Point>
+        <coordinates>-83.58930206, 33.90650177, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4DDI 70cm</name>
+      <description>rx: 442.275, tx: 447.275, ^123.0Hz, Analog/analog, 6/20/2022</description>
+      <Point>
+        <coordinates>-83.63240051, 32.84069824, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KF4RMB 70cm</name>
+      <description>rx: 442.275, tx: 447.275, ^67.0Hz, Analog/analog, 6/11/2022</description>
+      <Point>
+        <coordinates>-84.51940155, 34.10150146, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4NRC 70cm</name>
+      <description>rx: 442.25, tx: 447.25, ^141.3Hz, DMR, 4/5/2022</description>
+      <Point>
+        <coordinates>-84.649817, 33.50592, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4OKJ 70cm</name>
+      <description>rx: 442.2375, tx: 447.2375, ^Hz, DMR, 4/5/2022</description>
+      <Point>
+        <coordinates>-85.2362, 34.2327, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4CVY 70cm</name>
+      <description>rx: 442.2, tx: 447.2, ^D703Hz, YSF/analog, 7/19/2022</description>
+      <Point>
+        <coordinates>-84.878458, 32.461324, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KG4PXG 70cm</name>
+      <description>rx: 442.2, tx: 447.2, ^110.9Hz, Analog/analog, 6/11/2022</description>
+      <Point>
+        <coordinates>-81.57309723, 31.06189919, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4BZJ 70cm</name>
+      <description>rx: 442.175, tx: 447.175, ^Hz, DMR/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.97019958, 34.76979828, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AB4HF 70cm</name>
+      <description>rx: 442.1375, tx: 447.1375, ^100.0Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.0335, 34.1065, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KI4FVI 70cm</name>
+      <description>rx: 442.125, tx: 447.125, ^103.5Hz, P25/analog, 4/17/2022</description>
+      <Point>
+        <coordinates>-84.14275, 33.507083, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NG4RF 70cm</name>
+      <description>rx: 442.1125, tx: 447.1125, ^Hz, DMR, 4/10/2022</description>
+      <Point>
+        <coordinates>-84.16000366, 34.23690033, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4CVY 70cm</name>
+      <description>rx: 442.1, tx: 447.1, ^123.0Hz, Analog/analog, 7/19/2022</description>
+      <Point>
+        <coordinates>-84.878458, 32.461324, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4GR 70cm</name>
+      <description>rx: 442.1, tx: 447.1, ^100.0Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.21350098, 33.94120026, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WC4RG 70cm</name>
+      <description>rx: 442.05, tx: 447.05, ^88.5Hz, Analog/analog, 3/25/2022</description>
+      <Point>
+        <coordinates>-83.71320343, 33.7947998, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N1KDO 70cm</name>
+      <description>rx: 442, tx: 447, ^91.5Hz, Analog/analog, 6/12/2022</description>
+      <Point>
+        <coordinates>-84.54989624, 33.95259857, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4ULK 70cm</name>
+      <description>rx: 441.975, tx: 446.975, ^67.0Hz, Analog/analog, 7/19/2022</description>
+      <Point>
+        <coordinates>-84.82589722, 32.63959885, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KC6OVD 70cm</name>
+      <description>rx: 441.95, tx: 446.95, ^Hz, DMR, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.37850189, 33.92430115, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KI4AEM 70cm</name>
+      <description>rx: 441.925, tx: 446.925, ^100.0Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-83.33239746, 34.57730103, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4VO 70cm</name>
+      <description>rx: 441.925, tx: 446.925, ^100.0Hz, YSF/analog, 4/5/2022</description>
+      <Point>
+        <coordinates>-85.234883, 34.233217, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WE4GW 70cm</name>
+      <description>rx: 441.9, tx: 446.9, ^123.0Hz, Analog/analog, 6/6/2022</description>
+      <Point>
+        <coordinates>-82.07569885, 33.51739883, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4GQX 70cm</name>
+      <description>rx: 441.9, tx: 446.9, ^141.3Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.16049957, 34.23680115, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4GC 70cm</name>
+      <description>rx: 441.85, tx: 446.85, ^141.3Hz, Analog/analog, 6/11/2022</description>
+      <Point>
+        <coordinates>-85.54560089, 34.86780167, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KF4QLF 70cm</name>
+      <description>rx: 441.85, tx: 446.85, ^100.0Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.2640904, 33.2467807, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KC4YVV 70cm</name>
+      <description>rx: 441.85, tx: 446.85, ^100.0Hz, Analog/analog, 4/5/2022</description>
+      <Point>
+        <coordinates>-84.97019958, 34.76979828, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WX4TC 70cm</name>
+      <description>rx: 441.825, tx: 446.825, ^88.5Hz, Analog/analog, 8/27/2022</description>
+      <Point>
+        <coordinates>-83.76270294, 34.10929871, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4BOC 70cm</name>
+      <description>rx: 441.8125, tx: 446.8125, ^Hz, DMR, 7/9/2022</description>
+      <Point>
+        <coordinates>-84.14550018, 33.80530167, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KE4PMP 70cm</name>
+      <description>rx: 441.8125, tx: 446.8125, ^Hz, DMR, 4/12/2022</description>
+      <Point>
+        <coordinates>-84.104361, 31.13575, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NG4RF 70cm</name>
+      <description>rx: 441.675, tx: 446.675, ^100.0Hz, P25/analog, 4/10/2022</description>
+      <Point>
+        <coordinates>-84.33000183, 34.48699951, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KE4ZFR 70cm</name>
+      <description>rx: 441.675, tx: 446.675, ^131.8Hz, Analog/analog, 4/2/2022</description>
+      <Point>
+        <coordinates>-81.88539886, 31.60740089, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WR4SG 70cm</name>
+      <description>rx: 441.475, tx: 446.475, ^131.8Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-83.195971, 31.069324, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KZ4FOX 70cm</name>
+      <description>rx: 440.6625, tx: 445.6625, ^Hz, DMR, 6/14/2022</description>
+      <Point>
+        <coordinates>-83.355713, 34.011036, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KE4PMP 70cm</name>
+      <description>rx: 440.65, tx: 445.65, ^Hz, DMR, 4/12/2022</description>
+      <Point>
+        <coordinates>-83.255, 32.470056, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4PU 70cm</name>
+      <description>rx: 440.5375, tx: 445.5375, ^100.0Hz, Analog/analog, 3/31/2022</description>
+      <Point>
+        <coordinates>-84.33727, 34.507547, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WC4RAV 2m</name>
+      <description>rx: 147.535, tx: 146.595, ^103.5Hz, P25/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-84.54989624, 33.95259857, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4OHH 2m</name>
+      <description>rx: 147.39, tx: 147.99, ^131.8Hz, Analog/analog, 6/12/2022</description>
+      <Point>
+        <coordinates>-84.36530304, 32.98659897, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KF4DG 2m</name>
+      <description>rx: 147.39, tx: 147.99, ^100Hz, Analog/analog, 4/10/2022</description>
+      <Point>
+        <coordinates>-81.773798, 32.455281, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4OKJ 2m</name>
+      <description>rx: 147.39, tx: 147.99, ^100Hz, YSF/analog, 4/5/2022</description>
+      <Point>
+        <coordinates>-85.234883, 34.233217, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KB4WQA 2m</name>
+      <description>rx: 147.375, tx: 147.975, ^131.8Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-83.7696371, 32.0872209, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4TQU 2m</name>
+      <description>rx: 147.375, tx: 147.975, ^127.3Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-83.38240051, 33.9557991, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4NRC 2m</name>
+      <description>rx: 147.36, tx: 147.96, ^88.5Hz, Analog/analog, 4/5/2022</description>
+      <Point>
+        <coordinates>-84.362401, 32.983861, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4NEQ 2m</name>
+      <description>rx: 147.345, tx: 147.945, ^151.4Hz, Analog/analog, 4/6/2022</description>
+      <Point>
+        <coordinates>-84.4730374, 34.0670772, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4LHS 2m</name>
+      <description>rx: 147.33, tx: 147.93, ^203.5Hz, Analog/analog, 8/27/2022</description>
+      <Point>
+        <coordinates>-81.07316667, 32.04133333, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KR4CW 2m</name>
+      <description>rx: 147.33, tx: 147.93, ^127.3Hz, Analog/analog, 7/22/2022</description>
+      <Point>
+        <coordinates>-83.33239746, 34.57730103, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KD4IEZ 2m</name>
+      <description>rx: 147.33, tx: 147.93, ^77Hz, Analog/analog, 6/12/2022</description>
+      <Point>
+        <coordinates>-82.90380096, 32.54040146, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4BXO 2m</name>
+      <description>rx: 147.33, tx: 147.93, ^100Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-85.0007019, 32.98880005, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AD4EQ 2m</name>
+      <description>rx: 147.315, tx: 147.915, ^141.3Hz, Analog/analog, 6/1/2022</description>
+      <Point>
+        <coordinates>-82.84989929, 31.50880051, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WR4MG 2m</name>
+      <description>rx: 147.3, tx: 147.9, ^107.2Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-83.68810272, 32.64590073, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4EBY 2m</name>
+      <description>rx: 147.3, tx: 147.9, ^100Hz, Analog/analog, 11/2/2021</description>
+      <Point>
+        <coordinates>-85.16470337, 34.25699997, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4PVW 2m</name>
+      <description>rx: 147.285, tx: 147.885, ^141.3Hz, Analog/analog, 4/8/2022</description>
+      <Point>
+        <coordinates>-83.75279999, 31.40309906, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WX4BCA 2m</name>
+      <description>rx: 147.285, tx: 147.885, ^131.8Hz, Analog/analog, 4/1/2022</description>
+      <Point>
+        <coordinates>-83.98010254, 33.30469894, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4VIR 2m</name>
+      <description>rx: 147.27, tx: 147.87, ^131.8Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.23269653, 32.07239914, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WC4RG 2m</name>
+      <description>rx: 147.27, tx: 147.87, ^88.5Hz, P25/analog, 3/25/2022</description>
+      <Point>
+        <coordinates>-83.80909729, 33.81380081, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4GR 2m</name>
+      <description>rx: 147.255, tx: 147.855, ^107.2Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.01989746, 33.8572998, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4NFG 2m</name>
+      <description>rx: 147.24, tx: 147.84, ^77Hz, Analog/analog, 6/6/2022</description>
+      <Point>
+        <coordinates>-83.17269897, 32.81129837, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4UCJ 2m</name>
+      <description>rx: 147.24, tx: 147.84, ^141.3Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-83.78330231, 30.79999924, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4CLM 2m</name>
+      <description>rx: 147.24, tx: 147.84, ^103.5Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-84.75910187, 34.19400024, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KK4QWH 2m</name>
+      <description>rx: 147.225, tx: 147.825, ^100Hz, Analog/analog, 4/8/2022</description>
+      <Point>
+        <coordinates>-85.34770203, 34.48059845, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W8JI 2m</name>
+      <description>rx: 147.225, tx: 147.825, ^Hz, Analog/analog, 11/2/2021</description>
+      <Point>
+        <coordinates>-84.17009735, 33.07509995, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4NGT 2m</name>
+      <description>rx: 147.21, tx: 147.81, ^100Hz, Analog/analog, 6/12/2022</description>
+      <Point>
+        <coordinates>-83.9582412, 34.8761989, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4LHS 2m</name>
+      <description>rx: 147.21, tx: 147.81, ^Hz, Analog/analog, 4/20/2022</description>
+      <Point>
+        <coordinates>-81.09980011, 32.08349991, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KF4GHF 2m</name>
+      <description>rx: 147.21, tx: 147.81, ^162.2Hz, Analog/analog, 4/12/2022</description>
+      <Point>
+        <coordinates>-84.0177002, 33.66759872, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WR4MG 2m</name>
+      <description>rx: 147.195, tx: 147.795, ^107.2Hz, Analog/analog, 7/22/2022</description>
+      <Point>
+        <coordinates>-84.2382482, 32.5570898, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KB4CC 2m</name>
+      <description>rx: 147.195, tx: 147.795, ^118.8Hz, Analog/analog, 4/20/2022</description>
+      <Point>
+        <coordinates>-81.7213418, 30.9675111, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N3DAB 2m</name>
+      <description>rx: 147.195, tx: 147.795, ^77Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.3476938, 34.4841389, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4UCJ 2m</name>
+      <description>rx: 147.195, tx: 147.795, ^141.3Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-83.78990173, 30.79190063, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WD4NHW 2m</name>
+      <description>rx: 147.18, tx: 147.78, ^Hz, Analog/analog, 9/7/2022</description>
+      <Point>
+        <coordinates>-83.55200195, 34.49000168, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4DV 2m</name>
+      <description>rx: 147.18, tx: 147.78, ^71.9Hz, Analog/analog, 6/12/2022</description>
+      <Point>
+        <coordinates>-82.00969696, 33.4742012, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4BDP 2m</name>
+      <description>rx: 147.18, tx: 147.78, ^107.2Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-83.63809967, 32.60860062, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WR4VR 2m</name>
+      <description>rx: 147.18, tx: 147.78, ^127.3Hz, Analog/analog, 3/31/2022</description>
+      <Point>
+        <coordinates>-84.9190979, 33.73210144, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4JSF 2m</name>
+      <description>rx: 147.165, tx: 147.765, ^141.3Hz, Analog/analog, 6/7/2022</description>
+      <Point>
+        <coordinates>-82.8726, 31.5235, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KK4NTE 2m</name>
+      <description>rx: 147.165, tx: 147.765, ^151.4Hz, Analog/analog, 4/5/2022</description>
+      <Point>
+        <coordinates>-84.2440033, 34.87490082, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4NRC 2m</name>
+      <description>rx: 147.165, tx: 147.765, ^131.8Hz, Analog/analog, 4/5/2022</description>
+      <Point>
+        <coordinates>-84.649759, 33.505941, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4GQX 2m</name>
+      <description>rx: 147.15, tx: 147.75, ^141.3Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.16049957, 34.23680115, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4FRI 2m</name>
+      <description>rx: 147.15, tx: 147.75, ^123Hz, Analog/analog, 4/7/2022</description>
+      <Point>
+        <coordinates>-82.88210297, 32.25019836, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4BZJ 2m</name>
+      <description>rx: 147.135, tx: 147.735, ^141.3Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.97019958, 34.76979828, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WR4SG 2m</name>
+      <description>rx: 147.135, tx: 147.735, ^141.3Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-83.1828732, 30.6846637, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4TS 2m</name>
+      <description>rx: 147.12, tx: 147.72, ^67Hz, P25/analog, 7/21/2022</description>
+      <Point>
+        <coordinates>-83.412053, 34.904687, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4KNS 2m</name>
+      <description>rx: 147.12, tx: 147.72, ^71.9Hz, Analog/analog, 6/7/2022</description>
+      <Point>
+        <coordinates>-82.39179993, 33.20759964, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4CMA 2m</name>
+      <description>rx: 147.12, tx: 147.72, ^Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-85.25350189, 34.01850128, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4RTH 2m</name>
+      <description>rx: 147.105, tx: 147.705, ^110.9Hz, Analog/analog, 6/12/2022</description>
+      <Point>
+        <coordinates>-84.39479828, 33.79679871, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KF4DG 2m</name>
+      <description>rx: 147.105, tx: 147.705, ^100Hz, Analog/analog, 4/10/2022</description>
+      <Point>
+        <coordinates>-81.61801, 32.14699, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4EGA 2m</name>
+      <description>rx: 147.09, tx: 147.69, ^186.2Hz, Analog/analog, 6/11/2022</description>
+      <Point>
+        <coordinates>-83.070694, 33.548194, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4GR 2m</name>
+      <description>rx: 147.075, tx: 147.675, ^82.5Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.02449799, 33.85839844, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4CLA 2m</name>
+      <description>rx: 147.075, tx: 147.675, ^123Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-81.90399933, 32.16159821, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4VLD 2m</name>
+      <description>rx: 147.075, tx: 147.675, ^Hz, DMR, 4/8/2022</description>
+      <Point>
+        <coordinates>-83.32189941, 30.8491993, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4UCJ 2m</name>
+      <description>rx: 147.06, tx: 147.66, ^Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-83.97879791, 30.83659935, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NF4GA 2m</name>
+      <description>rx: 147.06, tx: 147.66, ^100Hz, Analog/analog, 3/29/2022</description>
+      <Point>
+        <coordinates>-84.32019806, 34.06669998, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KE4ZRT 2m</name>
+      <description>rx: 147.045, tx: 147.645, ^141.3Hz, Analog/analog, 6/7/2022</description>
+      <Point>
+        <coordinates>-82.599265, 31.2347214, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KD4AOZ 2m</name>
+      <description>rx: 147.045, tx: 147.645, ^123Hz, Analog/analog, 4/2/2022</description>
+      <Point>
+        <coordinates>-83.40879822, 33.86289978, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4GBT 2m</name>
+      <description>rx: 147.03, tx: 147.63, ^Hz, YSF/analog, 4/5/2022</description>
+      <Point>
+        <coordinates>-84.38790131, 33.74890137, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WD4AUX  2m</name>
+      <description>rx: 147.015, tx: 147.615, ^100Hz, Analog/analog, 7/9/2022</description>
+      <Point>
+        <coordinates>-84.6413218, 34.3209267, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WX4EMA 2m</name>
+      <description>rx: 147.015, tx: 147.615, ^88.5Hz, Analog/analog, 6/1/2022</description>
+      <Point>
+        <coordinates>-83.63240051, 32.84069824, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4EEE 2m</name>
+      <description>rx: 147, tx: 147.6, ^85.4Hz, YSF/analog, 9/16/2022</description>
+      <Point>
+        <coordinates>-83.5345993, 33.94929886, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4SFU 2m</name>
+      <description>rx: 147, tx: 147.6, ^156.7Hz, Analog/analog, 8/27/2022</description>
+      <Point>
+        <coordinates>-82.15509796, 32.582901, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4KNS 2m</name>
+      <description>rx: 146.985, tx: 146.385, ^71.9Hz, Analog/analog, 6/7/2022</description>
+      <Point>
+        <coordinates>-82.14360046, 33.51649857, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KN4FE 2m</name>
+      <description>rx: 146.985, tx: 146.385, ^110.9Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.68099976, 32.89039993, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KC4ZGN 2m</name>
+      <description>rx: 146.985, tx: 146.385, ^77Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.4937973, 34.71409988, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4CLJ 2m</name>
+      <description>rx: 146.97, tx: 146.37, ^100Hz, Analog/analog, 4/12/2022</description>
+      <Point>
+        <coordinates>-84.39479828, 33.79679871, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4QOJ 2m</name>
+      <description>rx: 146.955, tx: 146.355, ^77Hz, Analog/analog, 9/18/2022</description>
+      <Point>
+        <coordinates>-84.84079742, 33.92369843, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WR4MG 2m</name>
+      <description>rx: 146.955, tx: 146.355, ^107.2Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-83.7315979, 32.45819855, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K5PRE 2m</name>
+      <description>rx: 146.955, tx: 146.355, ^100Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-83.95819855, 34.87620163, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KD4AOZ 2m</name>
+      <description>rx: 146.955, tx: 146.355, ^123Hz, Analog/analog, 4/2/2022</description>
+      <Point>
+        <coordinates>-83.38240051, 33.9557991, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KE4RAP 2m</name>
+      <description>rx: 146.94, tx: 146.34, ^146.2Hz, Analog/analog, 6/7/2022</description>
+      <Point>
+        <coordinates>-82.00969696, 33.4742012, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4RVB 2m</name>
+      <description>rx: 146.94, tx: 146.34, ^Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-82.71990204, 32.72930145, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4VO 2m</name>
+      <description>rx: 146.94, tx: 146.34, ^88.5Hz, Analog/analog, 4/5/2022</description>
+      <Point>
+        <coordinates>-85.234883, 34.233217, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4ASI 2m</name>
+      <description>rx: 146.925, tx: 146.325, ^88.5Hz, YSF/analog, 9/16/2022</description>
+      <Point>
+        <coordinates>-83.8911972, 33.54650116, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4GAR 2m</name>
+      <description>rx: 146.91, tx: 146.31, ^100Hz, Analog/analog, 6/6/2022</description>
+      <Point>
+        <coordinates>-83.7838974, 34.55580139, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KD4UTQ 2m</name>
+      <description>rx: 146.895, tx: 146.295, ^88.5Hz, Analog/analog, 7/22/2022</description>
+      <Point>
+        <coordinates>-83.63240051, 32.84069824, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4QHR 2m</name>
+      <description>rx: 146.895, tx: 146.295, ^127.3Hz, Analog/analog, 4/8/2022</description>
+      <Point>
+        <coordinates>-81.61620331, 30.78549957, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4CMB 2m</name>
+      <description>rx: 146.895, tx: 146.295, ^100Hz, Analog/analog, 3/28/2022</description>
+      <Point>
+        <coordinates>-83.23519897, 34.36980057, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WD4LUQ 2m</name>
+      <description>rx: 146.895, tx: 147.495, ^77Hz, Analog/analog, 11/2/2021</description>
+      <Point>
+        <coordinates>-84.9817619, 33.8426817, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KD4IEZ 2m</name>
+      <description>rx: 146.88, tx: 147.48, ^77Hz, YSF/analog, 6/12/2022</description>
+      <Point>
+        <coordinates>-82.90380096, 32.54040146, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4NKL 2m</name>
+      <description>rx: 146.88, tx: 146.28, ^Hz, Analog/analog, 4/1/2022</description>
+      <Point>
+        <coordinates>-83.55989838, 30.78490067, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KI4ENN 2m</name>
+      <description>rx: 146.865, tx: 147.465, ^151.4Hz, Analog/analog, 6/11/2022</description>
+      <Point>
+        <coordinates>-83.75740051, 34.94929886, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4DKY 2m</name>
+      <description>rx: 146.865, tx: 146.265, ^179.9Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-83.46790314, 33.59569931, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KE4ZFR 2m</name>
+      <description>rx: 146.865, tx: 146.265, ^141.3Hz, Analog/analog, 4/2/2022</description>
+      <Point>
+        <coordinates>-81.88539886, 31.60740089, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4ORT 2m</name>
+      <description>rx: 146.85, tx: 146.25, ^Hz, Analog/analog, 3/25/2022</description>
+      <Point>
+        <coordinates>-83.655235, 32.649022, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4NAS 2m</name>
+      <description>rx: 146.835, tx: 146.235, ^127.3Hz, Analog/analog, 9/17/2022</description>
+      <Point>
+        <coordinates>-81.68979645, 30.79999924, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4NFG 2m</name>
+      <description>rx: 146.835, tx: 146.235, ^77Hz, Analog/analog, 6/6/2022</description>
+      <Point>
+        <coordinates>-83.80239868, 32.94639969, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4KHQ 2m</name>
+      <description>rx: 146.835, tx: 147.435, ^100Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.339183, 34.52105, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4DOC 2m</name>
+      <description>rx: 146.82, tx: 146.22, ^146.2Hz, Analog/analog, 6/12/2022</description>
+      <Point>
+        <coordinates>-84.38800049, 33.74900055, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4MM 2m</name>
+      <description>rx: 146.82, tx: 146.22, ^110.9Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-84.15570068, 31.57850075, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KC4AQS 2m</name>
+      <description>rx: 146.805, tx: 147.405, ^100Hz, Analog/analog, 9/18/2022</description>
+      <Point>
+        <coordinates>-84.33139801, 34.48619843, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AA4P 2m</name>
+      <description>rx: 146.79, tx: 146.19, ^141.3Hz, Analog/analog, 6/6/2022</description>
+      <Point>
+        <coordinates>-83.78910065, 31.17989922, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4NRC 2m</name>
+      <description>rx: 146.79, tx: 146.19, ^131.8Hz, YSF/analog, 4/5/2022</description>
+      <Point>
+        <coordinates>-84.710938, 33.438231, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AB4KK 2m</name>
+      <description>rx: 146.79, tx: 146.19, ^141.3Hz, Analog, 4/4/2022</description>
+      <Point>
+        <coordinates>-81.98458, 30.85333, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4DDI 2m</name>
+      <description>rx: 146.775, tx: 146.175, ^Hz, Analog/analog, 6/20/2022</description>
+      <Point>
+        <coordinates>-83.63240051, 32.84069824, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4VLD 2m</name>
+      <description>rx: 146.76, tx: 146.16, ^141.3Hz, Analog/analog, 4/8/2022</description>
+      <Point>
+        <coordinates>-83.32180023, 30.8491993, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4SOD 2m</name>
+      <description>rx: 146.76, tx: 146.16, ^141.3Hz, Analog/analog, 4/8/2022</description>
+      <Point>
+        <coordinates>-85.50910187, 34.87200165, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4BOC 2m</name>
+      <description>rx: 146.76, tx: 146.16, ^107.2Hz, Analog/analog, 11/10/2021</description>
+      <Point>
+        <coordinates>-84.14579773, 33.80619812, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4CVY 2m</name>
+      <description>rx: 146.745, tx: 146.145, ^123Hz, Analog/analog, 7/19/2022</description>
+      <Point>
+        <coordinates>-84.878458, 32.461324, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4WOC 2m</name>
+      <description>rx: 146.745, tx: 146.145, ^100Hz, Analog/analog, 6/11/2022</description>
+      <Point>
+        <coordinates>-84.95110321, 34.50260162, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4ECA 2m</name>
+      <description>rx: 146.745, tx: 146.145, ^97.4Hz, Analog/analog, 4/4/2022</description>
+      <Point>
+        <coordinates>-81.39150238, 32.3362999, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WA4DDI 2m</name>
+      <description>rx: 146.73, tx: 146.13, ^100Hz, Analog/analog, 6/20/2022</description>
+      <Point>
+        <coordinates>-83.63240051, 32.84069824, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4MM 2m</name>
+      <description>rx: 146.73, tx: 146.13, ^110.9Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-84.15570068, 31.57850075, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4SFU 2m</name>
+      <description>rx: 146.715, tx: 146.115, ^Hz, Analog/analog, 6/6/2022</description>
+      <Point>
+        <coordinates>-82.15509796, 32.582901, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KI4FVI 2m</name>
+      <description>rx: 146.715, tx: 146.115, ^146.2Hz, Analog/analog, 4/17/2022</description>
+      <Point>
+        <coordinates>-84.1428, 33.5071, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4ABZ 2m</name>
+      <description>rx: 146.715, tx: 146.115, ^67Hz, Analog/analog, 4/8/2022</description>
+      <Point>
+        <coordinates>-85.10910034, 34.91590118, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4CMB 2m</name>
+      <description>rx: 146.715, tx: 146.115, ^100Hz, YSF/analog, 3/28/2022</description>
+      <Point>
+        <coordinates>-83.10679626, 34.43590164, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AB4KE 2m</name>
+      <description>rx: 146.7, tx: 146.1, ^141.3Hz, Analog/analog, 6/9/2022</description>
+      <Point>
+        <coordinates>-84.98549652, 32.96580124, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4SJR 2m</name>
+      <description>rx: 146.7, tx: 146.1, ^123Hz, Analog/analog, 4/12/2022</description>
+      <Point>
+        <coordinates>-84.42910004, 34.46789932, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4PCF 2m</name>
+      <description>rx: 146.7, tx: 146.1, ^67Hz, Analog/analog, 3/31/2022</description>
+      <Point>
+        <coordinates>-83.16329956, 33.05500031, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KG4PXG 2m</name>
+      <description>rx: 146.685, tx: 146.085, ^100Hz, Analog/analog, 6/11/2022</description>
+      <Point>
+        <coordinates>-81.57309723, 31.06189919, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W7TJT 2m</name>
+      <description>rx: 146.685, tx: 146.085, ^167.9Hz, Analog/analog, 3/29/2022</description>
+      <Point>
+        <coordinates>-84.6875, 34.42630005, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4ABP 2m</name>
+      <description>rx: 146.67, tx: 146.07, ^131.8Hz, Analog/analog, 8/27/2022</description>
+      <Point>
+        <coordinates>-83.80680084, 34.50930023, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WM4B 2m</name>
+      <description>rx: 146.67, tx: 146.07, ^82.5Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-83.63150024, 32.6169014, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4EGA 2m</name>
+      <description>rx: 146.655, tx: 146.055, ^186.2Hz, Analog/analog, 6/11/2022</description>
+      <Point>
+        <coordinates>-83.39309692, 33.31389999, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KI4BEO 2m</name>
+      <description>rx: 146.64, tx: 146.04, ^97.4Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-84.02739716, 32.30519867, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4FWD 2m</name>
+      <description>rx: 146.64, tx: 146.04, ^131.8Hz, Analog/analog, 4/8/2022</description>
+      <Point>
+        <coordinates>-85.01249695, 33.57699966, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WX4TC 2m</name>
+      <description>rx: 146.625, tx: 146.025, ^127.3Hz, Analog/analog, 8/27/2022</description>
+      <Point>
+        <coordinates>-83.76270294, 34.10929871, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4CVY 2m</name>
+      <description>rx: 146.625, tx: 146.025, ^123Hz, Analog/analog, 7/19/2022</description>
+      <Point>
+        <coordinates>-84.814891, 32.837678, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4HAO 2m</name>
+      <description>rx: 146.625, tx: 146.025, ^88.5Hz, YSF/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-82.41349792, 32.21770096, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KJ4ZZF 2m</name>
+      <description>rx: 146.5, tx: 146.5, ^88.5Hz, Analog, 6/11/2022</description>
+      <Point>
+        <coordinates>-84.84130096, 33.92449951, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4RSW 2m</name>
+      <description>rx: 146.46, tx: 146.46, ^88.5Hz, Analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-84.76490021, 34.12080002, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4LHS 2m</name>
+      <description>rx: 146.34, tx: 146.34, ^91.5Hz, Analog, 4/20/2022</description>
+      <Point>
+        <coordinates>-80.86541, 32.013038, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KK4OIO 2m</name>
+      <description>rx: 145.49, tx: 144.89, ^107.2Hz, Analog/analog, 4/8/2022</description>
+      <Point>
+        <coordinates>-84.8413056, 33.9244531, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KG4OGC 2m</name>
+      <description>rx: 145.47, tx: 144.87, ^Hz, YSF/analog, 9/9/2022</description>
+      <Point>
+        <coordinates>-81.43340302, 31.73550034, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>NF4GA 2m</name>
+      <description>rx: 145.47, tx: 144.87, ^100Hz, Analog/analog, 3/29/2022</description>
+      <Point>
+        <coordinates>-84.3733147, 33.9304352, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4BOC 2m</name>
+      <description>rx: 145.45, tx: 144.85, ^107.2Hz, Analog/analog, 11/10/2021</description>
+      <Point>
+        <coordinates>-84.25489807, 33.70569992, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>AA4RI 2m</name>
+      <description>rx: 145.43, tx: 144.83, ^88.5Hz, Analog/analog, 6/7/2022</description>
+      <Point>
+        <coordinates>-83.63240051, 32.84069824, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4SJR 2m</name>
+      <description>rx: 145.43, tx: 144.83, ^123Hz, Analog/analog, 12/19/2021</description>
+      <Point>
+        <coordinates>-84.3384477, 34.5209425, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4KNS 2m</name>
+      <description>rx: 145.41, tx: 144.81, ^71.9Hz, Analog/analog, 6/7/2022</description>
+      <Point>
+        <coordinates>-82.00969696, 33.4742012, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KK4JPG 2m</name>
+      <description>rx: 145.41, tx: 144.81, ^100Hz, Analog/analog, 4/10/2022</description>
+      <Point>
+        <coordinates>-83.9453995, 33.0314778, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4LSG 2m</name>
+      <description>rx: 145.39, tx: 144.79, ^123Hz, Analog/analog, 9/8/2022</description>
+      <Point>
+        <coordinates>-83.5248933, 34.6125971, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4GWA 2m</name>
+      <description>rx: 145.39, tx: 144.79, ^110.9Hz, Analog/analog, 4/10/2022</description>
+      <Point>
+        <coordinates>-84.26409912, 33.24679947, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4JOE 2m</name>
+      <description>rx: 145.37, tx: 144.77, ^88.5Hz, Analog/analog, 6/7/2022</description>
+      <Point>
+        <coordinates>-83.63240051, 32.84069824, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4UCJ 2m</name>
+      <description>rx: 145.37, tx: 144.77, ^141.3Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-83.98249817, 30.83320045, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>N4OME 2m</name>
+      <description>rx: 145.35, tx: 144.75, ^141.3Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-83.65319824, 31.70599937, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4GTA 2m</name>
+      <description>rx: 145.35, tx: 144.75, ^100Hz, YSF/analog, 11/9/2021</description>
+      <Point>
+        <coordinates>-85.39420319, 34.86270142, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KD4QHB 2m</name>
+      <description>rx: 145.33, tx: 144.73, ^123Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-83.455278, 33.9625, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WX4BWK 2m</name>
+      <description>rx: 145.33, tx: 144.73, ^131.8Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-81.4836, 31.11884, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KA3JIJ 2m</name>
+      <description>rx: 145.31, tx: 144.71, ^123Hz, YSF/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-83.80680084, 34.50510025, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4DV 2m</name>
+      <description>rx: 145.29, tx: 144.69, ^71.9Hz, Analog/analog, 6/12/2022</description>
+      <Point>
+        <coordinates>-82.00969696, 33.4742012, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WX4PCH 2m</name>
+      <description>rx: 145.29, tx: 144.69, ^82.5Hz, Analog/analog, 4/7/2022</description>
+      <Point>
+        <coordinates>-83.79290009, 32.6114006, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4SAN 2m</name>
+      <description>rx: 145.27, tx: 144.67, ^77Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-82.81009674, 32.98149872, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KG4VUB 2m</name>
+      <description>rx: 145.27, tx: 144.67, ^100Hz, Analog/analog, 1/17/2022</description>
+      <Point>
+        <coordinates>-84.64880371, 34.31309891, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4TRS 2m</name>
+      <description>rx: 145.25, tx: 144.65, ^71.9Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-83.33239746, 34.57730103, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4GWA 2m</name>
+      <description>rx: 145.25, tx: 144.65, ^110.9Hz, Analog/analog, 4/10/2022</description>
+      <Point>
+        <coordinates>-84.43740082, 33.09120178, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KM4EYX 2m</name>
+      <description>rx: 145.25, tx: 144.65, ^141.3Hz, Analog/analog, 4/4/2022</description>
+      <Point>
+        <coordinates>-82.6908, 31.4853, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4IO 2m</name>
+      <description>rx: 145.23, tx: 144.63, ^151.4Hz, Analog/analog, 4/10/2022</description>
+      <Point>
+        <coordinates>-83.71690369, 33.56620026, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WR4SG 2m</name>
+      <description>rx: 145.23, tx: 144.63, ^141.3Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-83.39499664, 30.74309921, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4DRC 2m</name>
+      <description>rx: 145.23, tx: 144.63, ^141.3Hz, Analog/analog, 4/9/2022</description>
+      <Point>
+        <coordinates>-84.72049713, 34.84090042, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KK4GQ 2m</name>
+      <description>rx: 145.21, tx: 144.61, ^131.8Hz, Analog/analog, 4/12/2022</description>
+      <Point>
+        <coordinates>-84.45490265, 33.44869995, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KB4MQ 2m</name>
+      <description>rx: 145.21, tx: 144.61, ^103.5Hz, Analog/analog, 4/1/2022</description>
+      <Point>
+        <coordinates>-83.17769623, 32.1977005, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KI4CCZ 2m</name>
+      <description>rx: 145.21, tx: 144.61, ^118.8Hz, Analog/analog, 11/2/2021</description>
+      <Point>
+        <coordinates>-82.883856, 34.191686, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WB4ULJ 2m</name>
+      <description>rx: 145.19, tx: 144.59, ^110.9Hz, Analog/analog, 7/19/2022</description>
+      <Point>
+        <coordinates>-84.67620087, 32.8708992, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4KNS 2m</name>
+      <description>rx: 145.19, tx: 144.59, ^71.9Hz, Analog/analog, 6/7/2022</description>
+      <Point>
+        <coordinates>-82.31629944, 33.54610062, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KE4URL 2m</name>
+      <description>rx: 145.17, tx: 144.57, ^141.3Hz, NXDN/analog, 7/25/2022</description>
+      <Point>
+        <coordinates>-84.25279999, 30.80929947, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KJ4KPY 2m</name>
+      <description>rx: 145.17, tx: 144.57, ^146.2Hz, Analog/analog, 4/6/2022</description>
+      <Point>
+        <coordinates>-84.22740173, 33.51119995, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4HHH 2m</name>
+      <description>rx: 145.17, tx: 144.57, ^100Hz, Analog/analog, 4/3/2022</description>
+      <Point>
+        <coordinates>-84.51899719, 34.65650177, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>W4AQL 2m</name>
+      <description>rx: 145.15, tx: 144.55, ^167.9Hz, Analog/analog, 4/11/2022</description>
+      <Point>
+        <coordinates>-84.39733, 33.775867, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4NRC 2m</name>
+      <description>rx: 145.13, tx: 144.53, ^156.7Hz, Analog/analog, 4/5/2022</description>
+      <Point>
+        <coordinates>-84.81313, 33.384114, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>WR4BC 2m</name>
+      <description>rx: 145.13, tx: 144.53, ^100Hz, Analog/analog, 4/1/2022</description>
+      <Point>
+        <coordinates>-83.72019958, 33.99259949, 0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>K4NRC 2m</name>
+      <description>rx: 145.11, tx: 144.51, ^88.5Hz, Analog/analog, 4/5/2022</description>
+      <Point>
+        <coordinates>-84.751226, 33.746948, 0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
+

@@ -1,0 +1,327 @@
+﻿Call,Output Freq,Input Freq,Offset,Uplink Tone,Downlink Tone,Location,County,Lat,Long,Mode,Digital Access,EchoLink,Last Update
+N4RSW,446.175,446.175,x,,,Emerson - Lake Point,Bartow,34.1269989,-84.75550079,Analog,,4505,4/3/2022
+W4FLE,445.74,445.74,x,74.4,,Brunswick - FLETC Glynco Campus,Glynn,31.2317093,-81.4721131,Analog,,,4/7/2022
+KG4BKO,444.9875,449.9875,+,,,Vidalia - City Water Tower,Toombs,32.2175093,-82.409216,DMR,1,,4/11/2022
+WB4RTH,444.975,449.975,+,100.0,100.0,Atlanta - Buckhead,Fulton,33.83940125,-84.37940216,Analog/analog,,,6/12/2022
+WR4MG,444.95,449.95,+,107.2,107.2,Butler,Taylor,32.524736,-84.240239,Analog/analog,,,6/11/2022
+KA3JIJ,444.95,449.95,+,,,Clermont - Wauka Mountain,Hall,34.29790115,-83.82409668,DMR,1,,4/3/2022
+KF4BI,444.925,449.925,+,141.3,,Sycamore,Turner,31.67429924,-83.63739777,Analog/analog,,,7/21/2022
+N4MPC,444.9,449.9,+,100.0,,Decatur,Dekalb,33.8008,-84.2706,DMR/analog,1,,6/21/2022
+K4KNS,444.9,449.9,+,71.9,71.9,Evans,Columbia,33.5082016,-82.12409973,Analog/analog,,,6/7/2022
+N4RFC,444.8875,449.8875,+,,,Woodstock,Cherokee,34.10334,-84.51855,DMR/analog,,,6/21/2022
+KE4RJI,444.875,449.875,+,141.3,,Tifton - MRS Warehouse,Tift,31.45120049,-83.50180054,Analog/analog,,,4/5/2022
+KE4UAS,444.875,449.875,+,100.0,100.0,McDonough - Henry County Fire Department Station 1,Henry,33.4239006,-84.17179871,DMR/analog,1,906938,4/1/2022
+N4DMX,444.85,449.85,+,141.3,,Chatsworth,Murray,34.76589966,-84.76989746,Analog/analog,,,4/3/2022
+KB4MQ,444.85,449.85,+,103.5,103.5,Eastman,Dodge,32.1977005,-83.17769623,Analog/analog,,,4/2/2022
+W4DOC,444.825,449.825,+,,,Atlanta - Bank of America Tower,Fulton,33.77090073,-84.38619995,DMR,10,,6/12/2022
+K4DBN,444.825,449.825,+,123.0,123.0,Dublin,Laurens,32.5404447,-82.903754,Analog,,,4/10/2022
+WA4ASI,444.8,449.8,+,88.5,88.5,Covington - Newton County Forestry Tower,Newton,33.58840179,-83.8513031,YSF/analog,2,6925,9/16/2022
+W4PVW,444.8,449.8,+,141.3,,Sumner - WOBB Tower,Worth,31.43085,-83.7527861,Analog/analog,,,6/30/2022
+KD4IEZ,444.7875,449.7875,+,,,Dublin - GA-19 South of I-16,Laurens,32.3664,-82.7647,DMR,1,,6/12/2022
+KD4IEZ,444.775,449.775,+,77.0,,Dublin,Laurens,32.54040146,-82.90380096,YSF/analog,,,6/12/2022
+W4KIP,444.775,449.775,+,,,Marietta - Sweat Mountain,Cobb,34.0670772,-84.4730374,DMR,1,,4/6/2022
+KK4JPG,444.75,449.75,+,100.0,100.0,Forsyth - Monroe County Hospital Tower,Monroe,33.03430176,-83.9382019,DMR/analog,1,,4/10/2022
+KD4AOZ,444.725,449.725,+,123.0,,Watkinsville,Oconee,33.86289978,-83.40879822,Analog/analog,,,4/2/2022
+N4LMC,444.7125,449.7125,+,,,Lookout Mountain - Lookout Mountain,Walker,34.98195,-85.361176,DMR,1,,9/9/2022
+WA4DDI,444.7,449.7,+,103.5,,Macon,Bibb,32.84069824,-83.63240051,Analog/analog,,,6/20/2022
+W4VLD,444.7,449.7,+,141.3,,Valdosta,Lowndes,30.8491993,-83.32189941,Analog/analog,,148364,4/8/2022
+KI4CCZ,444.7,449.7,+,118.8,118.8,Elberton,Elbert,34.191686,-82.883856,Analog/analog,,,11/2/2021
+WD4LUQ,444.7,449.7,+,77.0,,Dallas,Paulding,33.92200089,-84.9088974,Analog/analog,,,11/2/2021
+K4KNS,444.675,449.675,+,71.9,71.9,Augusta - Doctors Hospital,Columbia,33.4734993,-82.01049805,Analog/analog,,,6/7/2022
+KN4YZ,444.675,449.675,+,77.0,,Tyrone,Fayette,33.47119904,-84.59719849,Analog/analog,,,3/31/2022
+W1KFR,444.625,449.625,+,,,Kingsland,Camden,30.82320023,-81.73480225,DMR,3,,6/20/2022
+WB4ULK,444.6125,449.6125,+,,,Ellerslie - Pine Ridge Elementary School,Harris,32.63959885,-84.82589722,YSF/analog,,,7/19/2022
+W4PSZ,444.6,449.6,+,77.0,77.0,Fayetteville,Fayette,33.44869995,-84.45490265,Analog/analog,,,6/12/2022
+WA4NKL,444.6,449.6,+,141.3,,Quitman,Brooks,30.78490067,-83.55989838,Analog/analog,,,4/1/2022
+KE4PMP,444.575,449.575,+,88.5,88.5,Vidalia - Highway 280 Water Tank,Toombs,32.21139908,-82.3891983,YSF/analog,,687210,4/11/2022
+W4GR,444.525,449.525,+,82.5,82.5,Snellville,Gwinnett,33.8572998,-84.01989746,YSF/analog,,,4/11/2022
+KK4BSA,444.5,449.5,+,,,Clayton - Rainey Mountain,Rabun,34.87810135,-83.40100098,Analog/analog,,,4/3/2022
+W4MM,444.5,449.5,+,,,Albany,Dougherty,31.57850075,-84.15570068,Analog/analog,,,4/3/2022
+KE4PMP,444.4875,449.4875,+,,,Parrott,Terrell,31.936778,-84.553556,DMR,1,,4/11/2022
+NF4GA,444.475,449.475,+,100.0,100.0,Sandy Springs,Fulton,33.9649,-84.3686,Analog/analog,,,3/29/2022
+W4OHH,444.45,449.45,+,131.8,131.8,Thomaston - URMC Hospital,Upson,32.8871994,-84.33280182,YSF/analog,,,6/12/2022
+K4EGA,444.425,449.425,+,186.2,186.2,Eatonton,Putnam,33.31389999,-83.39309692,DMR/analog,1,,6/11/2022
+W4JSF,444.4,449.4,+,141.3,141.3,Fitzgerald - WBHB Radio Tower,Ben Hill,31.7061162,-83.2620809,Analog/analog,,,6/7/2022
+WR4SG,444.35,449.35,+,141.3,141.3,Lake Park,Lowndes,30.65999985,-83.31860352,Analog/analog,,,4/9/2022
+WX4RCA,444.3,449.3,+,131.8,131.8,Conyers,Rockdale,33.67470169,-84.05750275,Analog/analog,,,4/7/2022
+N4SFU,444.25,449.25,+,94.8,94.8,Twin City,Emanuel,32.582901,-82.15509796,Analog/analog,,,8/27/2022
+W4BOC,444.25,449.25,+,131.8,,Decatur - Exchange Park,Dekalb,33.77479935,-84.2963028,YSF/analog,,,11/10/2021
+WR4VR,444.225,449.225,+,127.3,,Villa Rica,Carroll,33.72539902,-84.88079834,YSF/analog,,,3/31/2022
+K4HQV,444.2,449.2,+,100.0,,Lawrenceville,Gwinnett,33.93489838,-83.95860291,YSF/analog,,,7/22/2022
+KD4IEZ,444.175,449.175,+,,,Wrens,Richmond,33.259167,-82.285389,DMR,,,7/22/2022
+NX4DN,444.1375,449.1375,+,,,Metcalfe,Thomas,30.67025,-83.94029,DMR,1,,4/11/2022
+KC6OVD,444.125,449.125,+,,,Acworth,Cherokee,34.0659329,-84.6768796,DMR,,,4/11/2022
+W4PFT,444.1125,449.1125,+,,,Carnesville - Water Tower,Franklin,34.37924107,-83.22763413,DMR,1,,3/28/2022
+W4BAB,443.925,448.925,+,,,Ringgold,Catoosa,34.91590118,-85.10910034,Analog/analog,,,4/11/2022
+K4PLM,443.85,448.85,+,192.8,192.8,Waleska - Pine Log Mountain,Cherokee,34.31650162,-84.55220032,Analog/analog,,,11/2/2021
+WB4GWA,443.8,448.8,+,110.9,,Woodbury,Meriwether,32.98300171,-84.58200073,Analog/analog,,,4/10/2022
+NG4RF,443.75,448.75,+,100.0,100.0,Jasper - Sassafras Mountain,Pickens,34.522,-84.338,Analog/analog,,,4/11/2022
+WR4MC,443.75,448.75,+,118.8,118.8,Madison - Morgan County Public Safety Complex,Morgan,33.59569931,-83.46790314,Analog/analog,,,4/3/2022
+N4TAW,443.7375,448.7375,+,,,Between - US 78,Walton,33.81760025,-83.80740356,DMR,3,,4/9/2022
+WB4AEG,443.725,448.725,+,167.9,167.9,Adairsville,Bartow,34.36869812,-84.93409729,Analog/analog,,,6/12/2022
+W4TIY,443.7,448.7,+,77.0,77.0,Yorkville,Paulding,33.938577,-85.014449,Analog/analog,,,6/12/2022
+N5BI,443.7,448.7,+,100.0,,Gray,Jones,33.02109909,-83.53890228,Analog/analog,,,6/7/2022
+K4WOC,443.675,448.675,+,100.0,,Calhoun,Gordon,34.50260162,-84.95110321,Analog/analog,,,6/11/2022
+W4SCP,443.6,448.6,+,110.9,,Griffin - Sun City Peachtree Community,Spalding,33.3210048,-84.2440553,Analog/analog,,716008,4/5/2022
+KC4AQS,443.5625,448.5625,+,100.0,100.0,Jasper - Mount Oglethorpe,Pickens,34.48619843,-84.33139801,Analog/analog,,,9/18/2022
+N4SFU,443.5625,448.5625,+,,,Twin City,Emanuel,32.5825,-82.1564,DMR,1,,8/28/2022
+N4SFU,443.5625,448.5625,+,,,Twin City,Emanuel,32.5825,-82.1564,DMR,1,,8/27/2022
+NQ4AE,443.55,448.55,+,,,Griffin,Spalding,33.2467807,-84.2640904,Analog/analog,,,7/22/2022
+K4GAR,443.55,448.55,+,123.0,,Cleveland - Long Mountain,White,34.57550049,-83.78479767,Analog/analog,,,6/6/2022
+N4LMC,443.525,448.525,+,,146.2,Villanow,Walker,34.67369843,-85.11470032,Analog/analog,,856433,9/9/2022
+W4WYI,443.525,448.525,+,100.0,100.0,Winder - Winder Fire Station #1,Barrow,33.99259949,-83.72019958,Analog/analog,,,4/10/2022
+AF1G,443.5125,448.5125,+,85.4,,Perry - Intersection US-41 and GA-96,Houston,32.542672,-83.711603,DMR/analog,3,,4/11/2022
+KC4JNN,443.5,448.5,+,100.0,CSQ,Jasper - Biskey Mountain,Pickens,34.52980042,-84.33959961,Analog/analog,,,4/2/2022
+WX4PCA,443.475,448.475,+,77.0,,Rockmart,Paulding,33.92369843,-84.84079742,Analog/analog,,,9/18/2022
+W4EEE,443.475,448.475,+,85.4,,Bogart,Oconee,33.94929886,-83.5345993,NXDN/analog,,,6/15/2022
+WC4RAV,443.45,448.45,+,103.5,103.5,Marietta,Cobb,33.89989853,-84.56410217,Analog/analog,,,4/9/2022
+WB4GWA,443.4,448.4,+,110.9,,Concord,Pike,33.09120178,-84.43740082,Analog/analog,,,4/10/2022
+KC4AQS,443.375,448.375,+,100.0,100.0,Jasper - Mount Oglethorpe,Pickens,34.48619843,-84.33139801,Analog/analog,,,9/18/2022
+WA4ASI,443.35,448.35,+,88.5,88.5,Covington - FiberVisions Building,Newton,33.611534,-83.850606,Analog/analog,,6925,4/15/2022
+WA4MPZ,443.325,448.325,+,100.0,,Cleveland,White,34.5970402,-83.7632366,Analog/analog,,,7/22/2022
+WX4BCA,443.325,448.325,+,131.8,,Jackson - Sylvan Grove Hospital,Butts,33.30469894,-83.98010254,Analog/analog,,,4/1/2022
+WR4SG,443.3,448.3,+,141.3,141.3,Valdosta,Lowndes,30.74309921,-83.39499664,Analog/analog,,,4/9/2022
+N4RSW,443.3,448.3,+,,,Emerson - Lake Allatoona,Bartow,34.1269989,-84.75550079,Analog/analog,,4505,4/3/2022
+KA4CID,443.3,448.3,+,97.4,,Midway,Liberty,31.78280067,-81.44069672,Analog/analog,,954295,4/2/2022
+WB4NFG,443.275,448.275,+,77.0,,Irwington,Wilkinson,32.81190109,-83.17669678,Analog/analog,,,6/6/2022
+W4KST,443.275,448.275,+,100.0,,Marietta - KSU Marietta Campus,Cobb,33.93840027,-84.52130127,Analog/analog,,,4/9/2022
+KJ4KPY,443.225,448.225,+,146.2,,Stockbridge - Piedmont Henry Medical Center,Henry,33.5111408,-84.2271275,Analog/analog,,,4/6/2022
+W4HBS,443.225,448.225,+,100.0,,Morganton - Brawley Mountain,Fannin,34.80220032,-84.21360016,Analog/analog,,,4/5/2022
+WA4OKJ,443.2,448.2,+,100.0,100.0,Rome - Mount Alto,Floyd,34.23300171,-85.23560333,Analog/analog,,,4/5/2022
+W4CMB,443.2,448.2,+,151.4,,Lavonia - 911 Gerard Road Tower,Franklin,34.45249939,-83.11060333,YSF/analog,,,3/28/2022
+K4PAR,443.175,448.175,+,186.2,CSQ,Eatonton,Putnam,33.35419846,-83.32929993,Analog/analog,,,6/11/2022
+W4CLM,443.175,448.175,+,100.0,,Cartersville - Pine Mountain,Bartow,34.1651001,-84.79989624,Analog/analog,,,4/3/2022
+W4WCR,443.15,448.15,+,127.3,127.3,Clayton - Black Rock State Park,Rabun,34.904664,-83.41207,P25/analog,1293,,8/6/2022
+WM4B,443.15,448.15,+,82.5,82.5,Warner Robins - Houston Medical Center,Houston,32.6169014,-83.63150024,Analog/analog,,292763,4/9/2022
+NF4GA,443.15,448.15,+,100.0,100.0,Roswell,Fulton,34.06669998,-84.32019806,Analog/analog,,,3/29/2022
+KM4EYX,443.1375,448.1375,+,,,Douglas - WOKA AM Radio Tower,Coffee,31.5233,-82.872,DMR,3,,4/4/2022
+K4IO,443.125,448.125,+,186.2,186.2,Mansfield - White Pine Lane,Newton,33.51789856,-83.73429871,Analog/analog,,,4/10/2022
+N4KHQ,443.1,448.1,+,100.0,,Dahlonega - Black Mountain,Lumpkin,34.674833,-84.005717,Analog/analog,,,4/10/2022
+WX4EMA,443.075,448.075,+,88.5,,Macon,Bibb,32.86597,-83.691027,DMR,7,,6/1/2022
+WA4EOC,443.075,448.075,+,107.2,107.2,Waleska - Pine Log Mountain,Cherokee,34.321075,-84.637126,P25/analog,293,593209,4/11/2022
+WA4RVB,443.025,448.025,+,156.7,,Wrightsville,Johnson,32.72930145,-82.71990204,Analog/analog,,,4/9/2022
+KE4ZRT,443,448,+,141.3,,Douglas - WOKA-AM Tower,Coffee,31.5235,-82.8726,YSF/analog,,,6/7/2022
+W4DRC,443,448,+,141.3,,Chatsworth - Fort Mountain,Murray,34.76589966,-84.76989746,YSF/analog,,,4/9/2022
+KD4Z,442.975,447.975,+,,,Marietta - Sweat Mountain,Cobb,34.06700134,-84.45549774,DMR,1,,4/8/2022
+KJ4KKB,442.95,447.95,+,,,Dallas,Paulding,33.92449951,-84.84130096,DMR,1,,4/8/2022
+N4ZRA,442.95,447.95,+,179.9,,Athens,Clarke,33.9557991,-83.38240051,Analog/analog,,,4/1/2022
+N5JMD,442.9,447.9,+,123.0,,Lawrenceville,Gwinnett,33.93489838,-83.95860291,DMR/analog,1,506390,6/23/2022
+K4KNS,442.9,447.9,+,71.9,71.9,Appling,Columbia,33.54610062,-82.31629944,Analog/analog,,,6/7/2022
+WR4MG,442.9,447.9,+,107.2,,Warner Robins,Houston,32.604596,-83.613526,Analog/analog,,,4/11/2022
+K4RFL,442.875,447.875,+,100.0,,Marietta,Cobb,33.952602,-84.5499327,Analog/analog,,,6/20/2022
+WB4HJG,442.85,447.85,+,82.5,,Lawrenceville,Gwinnett,33.95619965,-83.98799896,Analog/analog,,,4/5/2022
+WR4VR,442.775,447.775,+,127.3,,Villa Rica,Carroll,33.732052,-84.9191081,YSF/analog,,,3/31/2022
+WR4SG,442.7125,447.7125,+,141.3,,Valdosta,Lowndes,30.67000008,-83.31860352,DMR/analog,1,,4/9/2022
+W4LHS,442.7,447.7,+,,,Savannah - WSAV TV Tower - Little Neck Road,Chatham,32.08349991,-81.09980011,Analog/analog,,955050,4/20/2022
+KC4ZGN,442.7,447.7,+,77.0,77.0,Ellijay,Gilmer,34.71409988,-84.4937973,Analog/analog,,,4/11/2022
+K4CGA,442.675,447.675,+,77.0,,Dallas,Paulding,33.92449951,-84.84130096,YSF/analog,,,6/7/2022
+W8RED,442.6,447.6,+,,,Snellville - Snellville Mountain,Gwinnett,33.85705,-84.02686,DMR,3,,4/11/2022
+K4DBN,442.6,447.6,+,123.0,,Dublin,Laurens,32.5404447,-82.903754,Analog,,,4/10/2022
+W4UCJ,442.6,447.6,+,141.3,,Thomasville,Thomas,30.83320045,-83.98249817,Analog/analog,,,4/3/2022
+AI1U,442.5375,447.5375,+,,,Lawrenceville,Gwinnett,33.9562,-83.988,DMR,7,,6/20/2022
+W4PSZ,442.5,447.5,+,77.0,,Peachtree City,Fayette,33.39680099,-84.59580231,Analog/analog,,,6/12/2022
+KE4UHF,442.5,447.5,+,88.5,,Higgston - WGPH-FM Tower,Montgomery,32.2328,-82.4808,Analog/analog,,872335,4/11/2022
+KD4APP,442.4875,447.4875,+,,,Ball Ground,Cherokee,34.337639,-84.375298,DMR,1,,6/20/2022
+W4CMB,442.475,447.475,+,203.5,,Lavonia,Franklin,34.43590164,-83.10679626,YSF/analog,,,3/28/2022
+KK4OIO,442.425,447.425,+,107.2,,Marietta,Cobb,33.95259857,-84.54989624,Analog/analog,,,4/8/2022
+WA4ZXV,442.4,447.4,+,100.0,,Lawrenceville,Gwinnett,33.95619965,-83.98799896,Analog/analog,,,4/11/2022
+KN4FE,442.4,447.4,+,110.9,110.9,Warm Springs,Meriwether,32.89039993,-84.68099976,Analog/analog,,282020,4/3/2022
+KG4ERR,442.4,447.4,+,123.0,123.0,Sylvania,Screven,32.7504441,-81.636776,YSF/analog,,676687,11/2/2021
+KZ4FOX,442.375,447.375,+,D115,D115,Athens,Clarke,34.0105,-83.355,Analog/analog,,,8/23/2022
+WD4NHW,442.35,447.35,+,,,Baldwin,Banks,34.48590088,-83.55069733,Analog/analog,,,9/7/2022
+W4GR,442.325,447.325,+,100.0,,Buford,Gwinnett,34.11928,-84.00605,Analog/analog,,,4/11/2022
+WB4GWA,442.3125,447.3125,+,,,Concord,Pike,33.089474,-84.451889,DMR,1,,4/10/2022
+WW4T,442.3,447.3,+,,,Statham - GA-53 at Hebron Church Road,Oconee,33.90650177,-83.58930206,Analog/analog,,,4/15/2022
+WA4DDI,442.275,447.275,+,123.0,,Macon,Bibb,32.84069824,-83.63240051,Analog/analog,,,6/20/2022
+KF4RMB,442.275,447.275,+,67.0,,Woodstock,Cherokee,34.10150146,-84.51940155,Analog/analog,,,6/11/2022
+K4NRC,442.25,447.25,+,141.3,141.3,Newnan - Cannongate Road,Coweta,33.50592,-84.649817,DMR,1,,4/5/2022
+WA4OKJ,442.2375,447.2375,+,,,Rome - Mount Alto,Floyd,34.2327,-85.2362,DMR,1,,4/5/2022
+W4CVY,442.2,447.2,+,D703,D703,Columbus - WXTX Tower,Muscogee,32.461324,-84.878458,YSF/analog,,,7/19/2022
+KG4PXG,442.2,447.2,+,110.9,,Dover Bluff,Camden,31.06189919,-81.57309723,Analog/analog,,,6/11/2022
+N4BZJ,442.175,447.175,+,,,Dalton - Dug Gap Mountain,Whitfield,34.76979828,-84.97019958,DMR/analog,1,,4/11/2022
+AB4HF,442.1375,447.1375,+,100.0,100.0,Sugar Hill - Eagle Theater,Gwinnett,34.1065,-84.0335,Analog/analog,,720486,4/11/2022
+KI4FVI,442.125,447.125,+,103.5,103.5,McDonough,Henry,33.507083,-84.14275,P25/analog,293,,4/17/2022
+NG4RF,442.1125,447.1125,+,,,Cumming - Sawnee Mountain,Forsyth,34.23690033,-84.16000366,DMR,1,,4/10/2022
+W4CVY,442.1,447.1,+,123.0,123.0,Columbus - WXTX Tower,Muscogee,32.461324,-84.878458,Analog/analog,,,7/19/2022
+W4GR,442.1,447.1,+,100.0,,Norcross,Gwinnett,33.94120026,-84.21350098,Analog/analog,,,4/11/2022
+WC4RG,442.05,447.05,+,88.5,88.5,Monroe,Walton,33.7947998,-83.71320343,Analog/analog,,,3/25/2022
+N1KDO,442,447,+,91.5,,Marietta,Cobb,33.95259857,-84.54989624,Analog/analog,,,6/12/2022
+WB4ULK,441.975,446.975,+,67.0,,Ellerslie - Pine Ridge Elementary School,Harris,32.63959885,-84.82589722,Analog/analog,,,7/19/2022
+KC6OVD,441.95,446.95,+,,,Sandy Springs,Fulton,33.92430115,-84.37850189,DMR,3,,4/11/2022
+KI4AEM,441.925,446.925,+,100.0,,Toccoa - Toccoa Falls,Stephens,34.57730103,-83.33239746,Analog/analog,,,4/11/2022
+W4VO,441.925,446.925,+,100.0,,Rome - Mt. Alto,Floyd,34.233217,-85.234883,YSF/analog,,,4/5/2022
+WE4GW,441.9,446.9,+,123.0,123.0,Martinez,Columbia,33.51739883,-82.07569885,Analog/analog,,,6/6/2022
+WB4GQX,441.9,446.9,+,141.3,141.3,Cumming - Sawnee Mountain,Forsyth,34.23680115,-84.16049957,Analog/analog,,,4/11/2022
+K4GC,441.85,446.85,+,141.3,,Trenton,Dade,34.86780167,-85.54560089,Analog/analog,,,6/11/2022
+KF4QLF,441.85,446.85,+,100.0,,Griffin,Spalding,33.2467807,-84.2640904,Analog/analog,,,4/11/2022
+KC4YVV,441.85,446.85,+,100.0,,Dalton,Whitfield,34.76979828,-84.97019958,Analog/analog,,,4/5/2022
+WX4TC,441.825,446.825,+,88.5,,Braselton,Jackson,34.10929871,-83.76270294,Analog/analog,,,8/27/2022
+W4BOC,441.8125,446.8125,+,,,Stone Mountain,Dekalb,33.80530167,-84.14550018,DMR,1,,7/9/2022
+KE4PMP,441.8125,446.8125,+,,,Pelham - GPB WABW TV Tower,Mitchell,31.13575,-84.104361,DMR,,,4/12/2022
+NG4RF,441.675,446.675,+,100.0,100.0,Jasper - Mount Oglethorpe,Pickens,34.48699951,-84.33000183,P25/analog,293,,4/10/2022
+KE4ZFR,441.675,446.675,+,131.8,,Jesup,Wayne,31.60740089,-81.88539886,Analog/analog,,,4/2/2022
+WR4SG,441.475,446.475,+,131.8,131.8,Ray City,Berrien,31.069324,-83.195971,Analog/analog,,,4/9/2022
+KZ4FOX,440.6625,445.6625,+,,,Athens,Clarke,34.011036,-83.355713,DMR,9,,6/14/2022
+KE4PMP,440.65,445.65,+,,,"Cochran - GA-26, South of I-16",Bleckley,32.470056,-83.255,DMR,1,,4/12/2022
+K4PU,440.5375,445.5375,+,100.0,100.0,Jasper,Pickens,34.507547,-84.33727,Analog/analog,,,3/31/2022
+WC4RAV,147.535,146.595,s,103.5,103.5,Marietta,Cobb,33.95259857,-84.54989624,P25/analog,293,,4/9/2022
+W4OHH,147.39,147.99,+,131.8,131.8,Thomaston - Hagans Mountain,Upson,32.98659897,-84.36530304,Analog/analog,,,6/12/2022
+KF4DG,147.39,147.99,+,100,,Statesboro - WWNS Tower,Bulloch,32.455281,-81.773798,Analog/analog,,,4/10/2022
+WA4OKJ,147.39,147.99,+,100,100.0,Rome - Mount Alto,Floyd,34.233217,-85.234883,YSF/analog,,,4/5/2022
+KB4WQA,147.375,147.975,+,131.8,131.8,Vienna - Brannen-NeSmith Funeral Home,Dooly,32.0872209,-83.7696371,Analog/analog,,,4/11/2022
+K4TQU,147.375,147.975,+,127.3,127.3,Athens,Clarke,33.9557991,-83.38240051,Analog/analog,,,4/9/2022
+K4NRC,147.36,147.96,+,88.5,88.5,Hannahs Mill,Upson,32.983861,-84.362401,Analog/analog,,313887,4/5/2022
+N4NEQ,147.345,147.945,+,151.4,,Marietta,Cobb,34.0670772,-84.4730374,Analog/analog,,,4/6/2022
+W4LHS,147.33,147.93,+,203.5,,Savannah - WSAV TV Tower - Victory Drive,Chatham,32.04133333,-81.07316667,Analog/analog,,955050,8/27/2022
+KR4CW,147.33,147.93,+,127.3,,Toccoa - Toccoa Falls,Stephens,34.57730103,-83.33239746,Analog/analog,,,7/22/2022
+KD4IEZ,147.33,147.93,+,77,,Dublin,Laurens,32.54040146,-82.90380096,Analog/analog,,,6/12/2022
+WB4BXO,147.33,147.93,+,100,100.0,LaGrange,Troup,32.98880005,-85.0007019,Analog/analog,,481355,4/11/2022
+AD4EQ,147.315,147.915,+,141.3,,Douglas,Coffee,31.50880051,-82.84989929,Analog/analog,,,6/1/2022
+WR4MG,147.3,147.9,+,107.2,CSQ,Centerville - Houston County Galleria Mall,Houston,32.64590073,-83.68810272,Analog/analog,,1,4/11/2022
+N4EBY,147.3,147.9,+,100,,Rome,Floyd,34.25699997,-85.16470337,Analog/analog,,,11/2/2021
+W4PVW,147.285,147.885,+,141.3,,Sumner - WOBB Tower,Worth,31.40309906,-83.75279999,Analog/analog,,,4/8/2022
+WX4BCA,147.285,147.885,+,131.8,,Jackson - Sylvan Grove Hospital,Butts,33.30469894,-83.98010254,Analog/analog,,,4/1/2022
+W4VIR,147.27,147.87,+,131.8,,Americus,Sumter,32.07239914,-84.23269653,Analog/analog,,,4/11/2022
+WC4RG,147.27,147.87,+,88.5,88.5,Between,Walton,33.81380081,-83.80909729,P25/analog,270,,3/25/2022
+W4GR,147.255,147.855,+,107.2,,Snellville,Gwinnett,33.8572998,-84.01989746,Analog/analog,,,4/11/2022
+WB4NFG,147.24,147.84,+,77,,Irwinton,Wilkinson,32.81129837,-83.17269897,Analog/analog,,,6/6/2022
+W4UCJ,147.24,147.84,+,141.3,,Boston,Thomas,30.79999924,-83.78330231,Analog/analog,,,4/3/2022
+W4CLM,147.24,147.84,+,103.5,,Cartersville - Ponders Mountain,Bartow,34.19400024,-84.75910187,Analog/analog,,,4/3/2022
+KK4QWH,147.225,147.825,+,100,,Summerville,Chattooga,34.48059845,-85.34770203,Analog/analog,,,4/8/2022
+W8JI,147.225,147.825,+,,,Barnesville,Lamar,33.07509995,-84.17009735,Analog/analog,,,11/2/2021
+W4NGT,147.21,147.81,+,100,,Blairsville,Union,34.8761989,-83.9582412,Analog/analog,,,6/12/2022
+W4LHS,147.21,147.81,+,,,Savannah - Talmadge Memorial Bridge,Chatham,32.08349991,-81.09980011,Analog/analog,,,4/20/2022
+KF4GHF,147.21,147.81,+,162.2,162.2,Conyers - Salem Road &amp; I-20,Rockdale,33.66759872,-84.0177002,Analog/analog,,,4/12/2022
+WR4MG,147.195,147.795,+,107.2,107.2,Butler,Taylor,32.5570898,-84.2382482,Analog/analog,,,7/22/2022
+KB4CC,147.195,147.795,+,118.8,118.8,Woodbine - Law Enforcement Complex,Camden,30.9675111,-81.7213418,Analog/analog,,671962,4/20/2022
+N3DAB,147.195,147.795,+,77,77.0,Jasper - Little Hendricks Mountain,Pickens,34.4841389,-84.3476938,Analog/analog,,,4/11/2022
+W4UCJ,147.195,147.795,+,141.3,141.3,Metcalfe,Thomas,30.79190063,-83.78990173,Analog/analog,,,4/3/2022
+WD4NHW,147.18,147.78,+,,,Baldwin,Habersham,34.49000168,-83.55200195,Analog/analog,,,9/7/2022
+W4DV,147.18,147.78,+,71.9,71.9,South Augusta,Richmond,33.4742012,-82.00969696,Analog/analog,,,6/12/2022
+WB4BDP,147.18,147.78,+,107.2,,Warner Robins,Houston,32.60860062,-83.63809967,Analog/analog,,,4/9/2022
+WR4VR,147.18,147.78,+,127.3,,Villa Rica,Carroll,33.73210144,-84.9190979,Analog/analog,,,3/31/2022
+W4JSF,147.165,147.765,+,141.3,141.3,Douglas - WOKA-AM Tower,Coffee,31.5235,-82.8726,Analog/analog,,,6/7/2022
+KK4NTE,147.165,147.765,+,151.4,,Morganton - Brawley Mountain,Fannin,34.87490082,-84.2440033,Analog/analog,,,4/5/2022
+K4NRC,147.165,147.765,+,131.8,131.8,Newnan - Cannongate Road,Coweta,33.505941,-84.649759,Analog/analog,,313887,4/5/2022
+WB4GQX,147.15,147.75,+,141.3,141.3,Cumming - Sawnee Mountain,Forsyth,34.23680115,-84.16049957,Analog/analog,,,4/11/2022
+WA4FRI,147.15,147.75,+,123,,Cedar Grove,Laurens,32.25019836,-82.88210297,Analog/analog,,,4/7/2022
+N4BZJ,147.135,147.735,+,141.3,141.3,Dalton - Dug Gap Mountain,Whitfield,34.76979828,-84.97019958,Analog/analog,,,4/11/2022
+WR4SG,147.135,147.735,+,141.3,141.3,Lake Park,Lowndes,30.6846637,-83.1828732,Analog/analog,,,4/9/2022
+N4TS,147.12,147.72,+,67,67.0,Clayton - Black Rock State Park,Rabun,34.904687,-83.412053,P25/analog,1293,,7/21/2022
+K4KNS,147.12,147.72,+,71.9,,Wrens,Jefferson,33.20759964,-82.39179993,Analog/analog,,,6/7/2022
+W4CMA,147.12,147.72,+,,,Cedartown,Polk,34.01850128,-85.25350189,Analog/analog,,,4/11/2022
+WB4RTH,147.105,147.705,+,110.9,110.9,Atlanta - Buckhead,Fulton,33.79679871,-84.39479828,Analog/analog,,,6/12/2022
+KF4DG,147.105,147.705,+,100,,Pembroke - WVAN Tower,Bryan,32.14699,-81.61801,Analog/analog,,469003,4/10/2022
+K4EGA,147.09,147.69,+,186.2,100.0,Greensboro,Greene,33.548194,-83.070694,Analog/analog,,,6/11/2022
+W4GR,147.075,147.675,+,82.5,82.5,Snellville - Lanier Mountain Water Tower,Gwinnett,33.85839844,-84.02449799,Analog/analog,,405614,4/11/2022
+W4CLA,147.075,147.675,+,123,,Claxton,Evans,32.16159821,-81.90399933,Analog/analog,,,4/9/2022
+K4VLD,147.075,147.675,+,,,Valdosta,Lowndes,30.8491993,-83.32189941,DMR,1,,4/8/2022
+W4UCJ,147.06,147.66,+,,,Thomasville,Thomas,30.83659935,-83.97879791,Analog/analog,,,4/3/2022
+NF4GA,147.06,147.66,+,100,100.0,Roswell,Fulton,34.06669998,-84.32019806,Analog/analog,,1,3/29/2022
+KE4ZRT,147.045,147.645,+,141.3,,Millwood - GPB TV Tower,Ware,31.2347214,-82.599265,Analog/analog,,,6/7/2022
+KD4AOZ,147.045,147.645,+,123,CSQ,Watkinsville,Oconee,33.86289978,-83.40879822,Analog/analog,,,4/2/2022
+WA4GBT,147.03,147.63,+,,,Atlanta - ATL - Hartsfield - Jackson International Airport,Fulton,33.74890137,-84.38790131,YSF/analog,,,4/5/2022
+WD4AUX ,147.015,147.615,+,100,100.0,Waleska - Pine Log Mountain,Cherokee,34.3209267,-84.6413218,Analog/analog,,,7/9/2022
+WX4EMA,147.015,147.615,+,88.5,88.5,Macon,Bibb,32.84069824,-83.63240051,Analog/analog,,,6/1/2022
+W4EEE,147,147.6,+,85.4,85.4,Bogart,Oconee,33.94929886,-83.5345993,YSF/analog,13293,,9/16/2022
+N4SFU,147,147.6,+,156.7,,Twin City,Emanuel,32.582901,-82.15509796,Analog/analog,,,8/27/2022
+K4KNS,146.985,146.385,-,71.9,71.9,Evans,Columbia,33.51649857,-82.14360046,Analog/analog,,730492,6/7/2022
+KN4FE,146.985,146.385,-,110.9,110.9,Warm Springs,Meriwether,32.89039993,-84.68099976,Analog/analog,,282020,4/11/2022
+KC4ZGN,146.985,146.385,-,77,77.0,Ellijay,Gilmer,34.71409988,-84.4937973,Analog/analog,,,4/11/2022
+K4CLJ,146.97,146.37,-,100,,Atlanta,Fulton,33.79679871,-84.39479828,Analog/analog,,,4/12/2022
+WB4QOJ,146.955,146.355,-,77,77.0,Dallas - Macland Road,Paulding,33.92369843,-84.84079742,Analog/analog,,3026,9/18/2022
+WR4MG,146.955,146.355,-,107.2,CSQ,Perry - Perry Hospital,Houston,32.45819855,-83.7315979,Analog/analog,,1,4/11/2022
+K5PRE,146.955,146.355,-,100,,Blairsville - Rocky Top Mountain,Union,34.87620163,-83.95819855,Analog/analog,,773104,4/11/2022
+KD4AOZ,146.955,146.355,-,123,CSQ,Athens,Clarke,33.9557991,-83.38240051,Analog/analog,,,4/2/2022
+KE4RAP,146.94,146.34,-,146.2,146.2,Augusta - Bon Air Hotel,Richmond,33.4742012,-82.00969696,Analog/analog,,,6/7/2022
+WA4RVB,146.94,146.34,-,,,Wrightsville,Johnson,32.72930145,-82.71990204,Analog/analog,,,4/9/2022
+W4VO,146.94,146.34,-,88.5,88.5,Rome - Mount Alto,Floyd,34.233217,-85.234883,Analog/analog,,203979,4/5/2022
+WA4ASI,146.925,146.325,-,88.5,88.5,Covington - Forestry Fire Tower,Newton,33.54650116,-83.8911972,YSF/analog,2,6925,9/16/2022
+K4GAR,146.91,146.31,-,100,,Cleveland - Long Mountain,White,34.55580139,-83.7838974,Analog/analog,,78118,6/6/2022
+KD4UTQ,146.895,146.295,-,88.5,CSQ,Macon,Bibb,32.84069824,-83.63240051,Analog/analog,,,7/22/2022
+K4QHR,146.895,146.295,-,127.3,D411,Kingsland,Camden,30.78549957,-81.61620331,Analog/analog,,,4/8/2022
+W4CMB,146.895,146.295,-,100,,Carnesville,Franklin,34.36980057,-83.23519897,Analog/analog,,,3/28/2022
+WD4LUQ,146.895,147.495,+,77,77.0,Union - Roses Store,Paulding,33.8426817,-84.9817619,Analog/analog,,,11/2/2021
+KD4IEZ,146.88,147.48,+,77,,Dublin,Laurens,32.54040146,-82.90380096,YSF/analog,,,6/12/2022
+WA4NKL,146.88,146.28,-,,,Quitman,Brooks,30.78490067,-83.55989838,Analog/analog,,,4/1/2022
+KI4ENN,146.865,147.465,+,151.4,,Hiawassee - Bell Mountain,Towns,34.94929886,-83.75740051,Analog/analog,,,6/11/2022
+WB4DKY,146.865,146.265,-,179.9,,Madison - Confederate &amp; Brownwood Roads,Morgan,33.59569931,-83.46790314,Analog/analog,,,4/3/2022
+KE4ZFR,146.865,146.265,-,141.3,141.3,Jesup,Wayne,31.60740089,-81.88539886,Analog/analog,,,4/2/2022
+WA4ORT,146.85,146.25,-,,,Warner Robins - Dunbar Road Water Tower,Houston,32.649022,-83.655235,Analog/analog,,,3/25/2022
+W4NAS,146.835,146.235,-,127.3,127.3,Kingsland,Camden,30.79999924,-81.68979645,Analog/analog,,,9/17/2022
+WB4NFG,146.835,146.235,-,77,CSQ,Bowlingbrook,Monroe,32.94639969,-83.80239868,Analog/analog,,,6/6/2022
+N4KHQ,146.835,147.435,+,100,,Dahlonega - Bisky Mountain,Lumpkin,34.52105,-84.339183,Analog/analog,,,4/11/2022
+W4DOC,146.82,146.22,-,146.2,146.2,Atlanta - Bank of America Tower,Fulton,33.74900055,-84.38800049,Analog/analog,,691899,6/12/2022
+W4MM,146.82,146.22,-,110.9,,Albany,Dougherty,31.57850075,-84.15570068,Analog/analog,,,4/3/2022
+KC4AQS,146.805,147.405,+,100,100.0,Jasper - Mount Oglethorpe,Pickens,34.48619843,-84.33139801,Analog/analog,,,9/18/2022
+AA4P,146.79,146.19,-,141.3,,Moultrie,Colquitt,31.17989922,-83.78910065,Analog/analog,,,6/6/2022
+K4NRC,146.79,146.19,-,131.8,131.8,Madras,Coweta,33.438231,-84.710938,YSF/analog,,,4/5/2022
+AB4KK,146.79,146.19,-,141.3,141.3,Folkston,Charlton,30.85333,-81.98458,Analog,,626696,4/4/2022
+WA4DDI,146.775,146.175,-,,,Macon,Bibb,32.84069824,-83.63240051,Analog/analog,,,6/20/2022
+W4VLD,146.76,146.16,-,141.3,,Valdosta,Lowndes,30.8491993,-83.32180023,Analog/analog,,821412,4/8/2022
+K4SOD,146.76,146.16,-,141.3,,Trenton - Sand Mountain Water Tank,Dade,34.87200165,-85.50910187,Analog/analog,,94681,4/8/2022
+W4BOC,146.76,146.16,-,107.2,107.2,Stone Mountain,Dekalb,33.80619812,-84.14579773,Analog/analog,,330246,11/10/2021
+W4CVY,146.745,146.145,-,123,123.0,Columbus - WXTX Tower,Muscogee,32.461324,-84.878458,Analog/analog,,,7/19/2022
+K4WOC,146.745,146.145,-,100,,Calhoun,Gordon,34.50260162,-84.95110321,Analog/analog,,,6/11/2022
+W4ECA,146.745,146.145,-,97.4,,Guyton,Effingham,32.3362999,-81.39150238,Analog/analog,,738635,4/4/2022
+WA4DDI,146.73,146.13,-,100,,Macon,Bibb,32.84069824,-83.63240051,Analog/analog,,,6/20/2022
+W4MM,146.73,146.13,-,110.9,,Albany,Dougherty,31.57850075,-84.15570068,Analog/analog,,,4/3/2022
+N4SFU,146.715,146.115,-,,,Twin City,Emanuel,32.582901,-82.15509796,Analog/analog,,,6/6/2022
+KI4FVI,146.715,146.115,-,146.2,146.2,McDonough,Henry,33.5071,-84.1428,Analog/analog,,347219,4/17/2022
+W4ABZ,146.715,146.115,-,67,,Ringgold,Catoosa,34.91590118,-85.10910034,Analog/analog,,,4/8/2022
+W4CMB,146.715,146.115,-,100,,Lavonia,Franklin,34.43590164,-83.10679626,YSF/analog,,,3/28/2022
+AB4KE,146.7,146.1,-,141.3,141.3,LaGrange,Troup,32.96580124,-84.98549652,Analog/analog,,,6/9/2022
+K4SJR,146.7,146.1,-,123,123.0,Jasper,Pickens,34.46789932,-84.42910004,Analog/analog,,,4/12/2022
+W4PCF,146.7,146.1,-,67,CSQ,Milledgeville,Baldwin,33.05500031,-83.16329956,Analog/analog,,,3/31/2022
+KG4PXG,146.685,146.085,-,100,100.0,Dover Bluff,Camden,31.06189919,-81.57309723,Analog/analog,,8345,6/11/2022
+W7TJT,146.685,146.085,-,167.9,CSQ,Fairmount,Gordon,34.42630005,-84.6875,Analog/analog,,,3/29/2022
+W4ABP,146.67,146.07,-,131.8,,Gainesville - Wauka Mountain,Hall,34.50930023,-83.80680084,Analog/analog,,,8/27/2022
+WM4B,146.67,146.07,-,82.5,82.5,Warner Robins - Houston Medical Center,Houston,32.6169014,-83.63150024,Analog/analog,,292763,4/9/2022
+K4EGA,146.655,146.055,-,186.2,100.0,Eatonton,Putnam,33.31389999,-83.39309692,Analog/analog,,,6/11/2022
+KI4BEO,146.64,146.04,-,97.4,CSQ,Montezuma,Macon,32.30519867,-84.02739716,Analog/analog,,,4/9/2022
+W4FWD,146.64,146.04,-,131.8,,Carrollton,Carroll,33.57699966,-85.01249695,Analog/analog,,,4/8/2022
+WX4TC,146.625,146.025,-,127.3,,Braselton,Jackson,34.10929871,-83.76270294,Analog/analog,,,8/27/2022
+W4CVY,146.625,146.025,-,123,123.0,Pine Mountain - FDR Park/Pine Mountain Trail,Harris,32.837678,-84.814891,Analog/analog,,,7/19/2022
+K4HAO,146.625,146.025,-,88.5,,Vidalia - City Water Tank,Toombs,32.21770096,-82.41349792,YSF/analog,,,4/11/2022
+KJ4ZZF,146.5,146.5,x,88.5,,Dallas,Paulding,33.92449951,-84.84130096,Analog,,517669,6/11/2022
+N4RSW,146.46,146.46,x,88.5,,Emerson - Lake Point,Bartow,34.12080002,-84.76490021,Analog,,4505,4/3/2022
+W4LHS,146.34,146.34,x,91.5,,Tybee,Chatham,32.013038,-80.86541,Analog,,,4/20/2022
+KK4OIO,145.49,144.89,-,107.2,107.2,Marietta - Fort Street Hill Tower,Cobb,33.9244531,-84.8413056,Analog/analog,,30132,4/8/2022
+KG4OGC,145.47,144.87,-,,,Riceboro,Liberty,31.73550034,-81.43340302,YSF/analog,,,9/9/2022
+NF4GA,145.47,144.87,-,100,100.0,Sandy Springs,Fulton,33.9304352,-84.3733147,Analog/analog,,1,3/29/2022
+W4BOC,145.45,144.85,-,107.2,107.2,Decatur - Exchange Park,Dekalb,33.70569992,-84.25489807,Analog/analog,,,11/10/2021
+AA4RI,145.43,144.83,-,88.5,,Macon,Bibb,32.84069824,-83.63240051,Analog/analog,,,6/7/2022
+K4SJR,145.43,144.83,-,123,,Jasper - Biskey Mountain,Pickens,34.5209425,-84.3384477,Analog/analog,,,12/19/2021
+K4KNS,145.41,144.81,-,71.9,71.9,Augusta - Doctors Hospital,Richmond,33.4742012,-82.00969696,Analog/analog,,,6/7/2022
+KK4JPG,145.41,144.81,-,100,,Forsyth - Monroe County Hospital Tower,Monroe,33.0314778,-83.9453995,Analog/analog,,,4/10/2022
+W4LSG,145.39,144.79,-,123,,Clarkesville - Ivy Mountain,Habersham,34.6125971,-83.5248933,Analog/analog,,,9/8/2022
+WB4GWA,145.39,144.79,-,110.9,,Griffin,Spalding,33.24679947,-84.26409912,Analog/analog,,,4/10/2022
+WB4JOE,145.37,144.77,-,88.5,,Gray - Round Oak,Jones,32.84069824,-83.63240051,Analog/analog,,,6/7/2022
+W4UCJ,145.37,144.77,-,141.3,,Thomasville,Thomas,30.83320045,-83.98249817,Analog/analog,,,4/3/2022
+N4OME,145.35,144.75,-,141.3,,Ashburn,Turner,31.70599937,-83.65319824,Analog/analog,,,4/11/2022
+W4GTA,145.35,144.75,-,100,100.0,Lookout Mountain - Lookout Mountain,Walker,34.86270142,-85.39420319,YSF/analog,,9058,11/9/2021
+KD4QHB,145.33,144.73,-,123,123.0,Athens,Clarke,33.9625,-83.455278,Analog/analog,,,4/11/2022
+WX4BWK,145.33,144.73,-,131.8,,Brunswick - Sidney Lanier Bridge,Glynn,31.11884,-81.4836,Analog/analog,,903179,4/9/2022
+KA3JIJ,145.31,144.71,-,123,,Clermont - Wauka Mountain,Hall,34.50510025,-83.80680084,YSF/analog,1,,4/3/2022
+W4DV,145.29,144.69,-,71.9,71.9,South Augusta,Richmond,33.4742012,-82.00969696,Analog/analog,,,6/12/2022
+WX4PCH,145.29,144.69,-,82.5,82.5,Byron - Peach County Fire Department,Peach,32.6114006,-83.79290009,Analog/analog,,,4/7/2022
+W4SAN,145.27,144.67,-,77,,Sandersville,Washington,32.98149872,-82.81009674,Analog/analog,,,4/3/2022
+KG4VUB,145.27,144.67,-,100,100.0,Waleska - Pine Log Mountain,Cherokee,34.31309891,-84.64880371,Analog/analog,,,1/17/2022
+K4TRS,145.25,144.65,-,71.9,,Toccoa - Toccoa Falls,Stephens,34.57730103,-83.33239746,Analog/analog,,332596,4/11/2022
+WB4GWA,145.25,144.65,-,110.9,,Concord,Pike,33.09120178,-84.43740082,Analog/analog,,,4/10/2022
+KM4EYX,145.25,144.65,-,141.3,,Alma,Bacon,31.4853,-82.6908,Analog/analog,,,4/4/2022
+K4IO,145.23,144.63,-,151.4,151.4,Mansfield - White Pine Lane,Newton,33.56620026,-83.71690369,Analog/analog,,,4/10/2022
+WR4SG,145.23,144.63,-,141.3,141.3,Valdosta,Lowndes,30.74309921,-83.39499664,Analog/analog,,,4/9/2022
+W4DRC,145.23,144.63,-,141.3,CSQ,Chatsworth - Fort Mountain,Murray,34.84090042,-84.72049713,Analog/analog,,,4/9/2022
+KK4GQ,145.21,144.61,-,131.8,,Fayetteville,Fayette,33.44869995,-84.45490265,Analog/analog,,317195,4/12/2022
+KB4MQ,145.21,144.61,-,103.5,103.5,Eastman,Dodge,32.1977005,-83.17769623,Analog/analog,,,4/1/2022
+KI4CCZ,145.21,144.61,-,118.8,118.8,Elberton,Elbert,34.191686,-82.883856,Analog/analog,,,11/2/2021
+WB4ULJ,145.19,144.59,-,110.9,,Warm Springs,Meriwether,32.8708992,-84.67620087,Analog/analog,,,7/19/2022
+K4KNS,145.19,144.59,-,71.9,71.9,Appling,Columbia,33.54610062,-82.31629944,Analog/analog,,,6/7/2022
+KE4URL,145.17,144.57,-,141.3,,Reno,Grady,30.80929947,-84.25279999,NXDN/analog,,,7/25/2022
+KJ4KPY,145.17,144.57,-,146.2,,Stockbridge - Piedmont Henry Medical Center,Henry,33.51119995,-84.22740173,Analog/analog,,,4/6/2022
+W4HHH,145.17,144.57,-,100,100.0,Ellijay - Coosawattee River Resort,Gilmer,34.65650177,-84.51899719,Analog/analog,,672019,4/3/2022
+W4AQL,145.15,144.55,-,167.9,167.9,Atlanta - Georgia Tech,Fulton,33.775867,-84.39733,Analog/analog,,,4/11/2022
+K4NRC,145.13,144.53,-,156.7,156.7,Newnan - Coweta County Radio Tower,Coweta,33.384114,-84.81313,Analog/analog,,,4/5/2022
+WR4BC,145.13,144.53,-,100,100.0,Winder,Barrow,33.99259949,-83.72019958,Analog/analog,,,4/1/2022
+K4NRC,145.11,144.51,-,88.5,,Douglasville,Douglas,33.746948,-84.751226,Analog/analog,,,4/5/2022
