@@ -20,16 +20,21 @@ def placemark(name, desc, coords):
 
 def gen_name(line):
   call = line["\ufeffCall"]
-  mode = line["Mode"]
-  if mode in acceptable_modes[:2]:
-    band = " 70cm"
+  mode = get_mode(line)
+  if mode == "Analog":
+    band = "70cm"
     if float(line["Output Freq"]) < 440:
       band = "2m"
     return f"{call} {band}"
-  elif mode in acceptable_modes[2:]:
-    mode = "DMR"
 
   return f"{call} {mode}"
+
+
+def get_mode(line):
+  mode = "Analog"
+  if line["Mode"] in acceptable_modes[2:]:
+    mode = "DMR"
+  return mode
 
 
 def gen_desc(line):
@@ -37,13 +42,15 @@ def gen_desc(line):
     input = line["Input Freq"]
     last_update = line["Last Update"]
 
-    mode = line["Mode"]
-    if mode in acceptable_modes[2:]:
+    mode = get_mode(line)
+    if mode == "DMR":
       color_code = line["Digital Access"]
-      return f"rx: {output}, tx: {input}, cc: {color_code}, {mode}, {last_update}"
+      access_protection = f"cc: {color_code}"
     else:
       uplink_tone = line["Uplink Tone"]
-      return f"rx: {output}, tx: {input}, ^{uplink_tone}Hz, {mode}, {last_update}"
+      access_protection = f"^{uplink_tone}Hz"
+    
+    return f"rx: {output}, tx: {input}, {access_protection}, {mode}, {last_update}"
 
 
 def gen_coords(line):
