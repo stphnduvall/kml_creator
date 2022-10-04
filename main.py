@@ -29,7 +29,7 @@ def gen_name(line):
   return f"{call} {mode}"
 
 
-def description(line):
+def gen_desc(line):
     output = line["Output Freq"]
     input = line["Input Freq"]
     uplink_tone = line["Uplink Tone"]
@@ -38,6 +38,10 @@ def description(line):
     last_update = line["Last Update"]
 
     return f"rx: {output}, tx: {input}, ^{uplink_tone}Hz, {mode}, {last_update}"
+
+
+def gen_coords(line):
+  return f"{line['Long']}, {line['Lat']}, 0"
 
 
 with open("Georgia Repeaters All.csv", 'r') as file:
@@ -49,9 +53,9 @@ with open("Georgia Repeaters All.csv", 'r') as file:
 
         name = gen_name(line)
         
-        desc = description(line) 
+        desc = gen_desc(line) 
 
-        coords = line['Long'] +", "+ line['Lat'] + ', 0'
+        coords = gen_coords(line)
 
         schema += placemark(name, desc, coords)
         
