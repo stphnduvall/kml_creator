@@ -22,7 +22,10 @@ def gen_name(line):
   call = line["\ufeffCall"]
   mode = line["Mode"]
   if mode in acceptable_modes[:2]:
-    mode = "Analog"
+    band = " 70cm"
+    if float(line["Output Freq"]) < 440:
+      band = "2m"
+    return f"{call} {band}"
   elif mode in acceptable_modes[2:]:
     mode = "DMR"
 
