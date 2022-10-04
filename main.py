@@ -21,9 +21,9 @@ def placemark(name, desc, coords):
 def gen_name(line):
   call = line["\ufeffCall"]
   mode = line["Mode"]
-  if acceptable_modes.index(mode) <= 2:
+  if mode in acceptable_modes[:2]:
     mode = "Analog"
-  elif acceptable_modes.index(mode) >= 3:
+  elif mode in acceptable_modes[2:]:
     mode = "DMR"
 
   return f"{call} {mode}"
