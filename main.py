@@ -18,6 +18,17 @@ def placemark(name, desc, coords):
     </Placemark>"""
     
 
+def gen_name(line):
+  call = line["\ufeffCall"]
+  mode = line["Mode"]
+  if acceptable_modes.index(mode) <= 2:
+    mode = "Analog"
+  elif acceptable_modes.index(mode) >= 3:
+    mode = "DMR"
+
+  return f"{call} {mode}"
+
+
 def description(line):
     output = line["Output Freq"]
     input = line["Input Freq"]
@@ -33,10 +44,6 @@ with open("Georgia Repeaters All.csv", 'r') as file:
     repeaters = csv.DictReader(file)
 
     for line in repeaters:
-        band = " 70cm"
-        if float(line["Output Freq"]) < 440:
-            band = " 2m"
-        name = line["\ufeffCall"] + band
         if line["Mode"] not in acceptable_modes:
           continue
 
