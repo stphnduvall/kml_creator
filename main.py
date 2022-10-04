@@ -35,12 +35,15 @@ def gen_name(line):
 def gen_desc(line):
     output = line["Output Freq"]
     input = line["Input Freq"]
-    uplink_tone = line["Uplink Tone"]
-    downlink_tone = line["Downlink Tone"]
-    mode = line["Mode"]
     last_update = line["Last Update"]
 
-    return f"rx: {output}, tx: {input}, ^{uplink_tone}Hz, {mode}, {last_update}"
+    mode = line["Mode"]
+    if mode in acceptable_modes[2:]:
+      color_code = line["Digital Access"]
+      return f"rx: {output}, tx: {input}, cc: {color_code}, {mode}, {last_update}"
+    else:
+      uplink_tone = line["Uplink Tone"]
+      return f"rx: {output}, tx: {input}, ^{uplink_tone}Hz, {mode}, {last_update}"
 
 
 def gen_coords(line):
