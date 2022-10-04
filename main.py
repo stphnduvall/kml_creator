@@ -1,4 +1,5 @@
 import csv
+acceptable_modes = ["Analog/analog", "Analog", "DMR", "DMR/analog"]
 
 schema = """<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
@@ -36,6 +37,10 @@ with open("Georgia Repeaters All.csv", 'r') as file:
         if float(line["Output Freq"]) < 440:
             band = " 2m"
         name = line["\ufeffCall"] + band
+        if line["Mode"] not in acceptable_modes:
+          continue
+
+        name = gen_name(line)
         
         desc = description(line) 
 
